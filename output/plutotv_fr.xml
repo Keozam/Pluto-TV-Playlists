@@ -13252,6 +13252,11 @@ Pourquoi est-ce seulement la sous-espèce des paresseux à trois doigts qui est 
         <desc>2259. Starfleet, l'institution chargée de la défense de la Fédération des planètes unies, est menacée par un terroriste du nom de John Harisson2, qui vise à détruire la flotte et les valeurs qu'elle représente.</desc>
         <icon src="https://images.pluto.tv/series/661e6844acbc680013926281/tile_1779837841931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261108084744 +0000" stop="20261108111644 +0000">
+        <title>Star Trek, le film</title>
+        <desc>Quand un étranger non identifié détruit trois puissants croiseurs klingons, le capitaine James T. Kirk (William Shatner) retourne prendre les commandes du vaisseau remodelé, l'USS Enterprise™.</desc>
+        <icon src="https://images.pluto.tv/series/6038aae0c9165e00145d4348/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261108034427 +0000" stop="20261108045327 +0000">
         <title>Chez Maupassant: Histoire d'une Fille de ferme</title>
         <desc>Rose, une fille de la ferme, est amoureuse d'un saisonnier. Très vite, la jeune femme tombe enceinte mais son galant préfère s'enfuir plutôt que d'assumer la paternité. Rose cache sa grossesse.</desc>

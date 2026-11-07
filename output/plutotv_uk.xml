@@ -1121,6 +1121,11 @@
         <desc>The story of a modern-day family who became bored with the hassles of the city life in Los Angeles and moved to the Rocky Mountains, never to return.</desc>
         <icon src="https://images.pluto.tv/series/6242c643fc8de900130e1ab6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dc3fc6b9133f500099c7d98" start="20261108000815 +0000" stop="20261108020021 +0000">
+        <title>Ratchet and Clank</title>
+        <desc>When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.</desc>
+        <icon src="https://images.pluto.tv/series/67c0e235db5203ef4d2a201d/tile_1778801773784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="612cda102f5f18000705e0bf" start="20261107193510 +0000" stop="20261107210510 +0000">
         <title>The Terror</title>
         <desc>A young officer in Napoleon's Army pursues a mysterious woman to the castle of an elderly Baron.</desc>
@@ -25067,6 +25072,11 @@ to find the spirits that refuse to leave this famous location.</desc>
         <title>The Legend of Hercules</title>
         <desc>Betrayed by his stepfather, the King, and exiled and sold into slavery because of a forbidden love, Hercules must use his formidable powers to fight his way back to his rightful kingdom.</desc>
         <icon src="https://images.pluto.tv/series/659d19310726640013560659/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6401d85a49839300087b116c" start="20261108162500 +0000" stop="20261108183600 +0000">
+        <title>Conan the Barbarian</title>
+        <desc>The Cimmerian warrior slashes his way across Hyboria on a mission that begins as a personal vendetta but turns into an epic battle against a supernatural evil.</desc>
+        <icon src="https://images.pluto.tv/series/68b188640652cfdb65cc20fd/tile_1756526931918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c37e710e086a0009e824ab" start="20261108120000 +0000" stop="20261108123000 +0000">
         <title>That's Christmas</title>
