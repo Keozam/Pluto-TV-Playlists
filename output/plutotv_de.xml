@@ -16687,6 +16687,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
         <icon src="https://images.pluto.tv/series/6729007de1038900137f5401/tile_1730740350189.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5be1c0d81843b56328bc3fba" start="20261108082615 +0000" stop="20261108102900 +0000">
+        <title>Crackling Fireplace</title>
+        <desc>Cozy up to the special edition fireplace, just in time for the Holidays. The soft crackling of burning wood will turn your home into a calming retreat.</desc>
+        <icon src="https://images.pluto.tv/series/6729007de1038900137f5401/tile_1730740350189.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5cb5cfe5caf83414128f209e" start="20261108032615 +0000" stop="20261108044134 +0000">
         <title>Tassilo - Ein Fall für sich</title>
         <desc>Die spielfreudige Maximiliane findet Tassilo sympathisch und lädt ihn zu ihrem 60. Geburtstag ein. Um sich einen Auftrag zu verschaffen, läßt Tassilo ein Kunstwerk Maximilianes stehlen.</desc>
@@ -22179,6 +22184,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Tischtennis</title>
         <desc>Die Tischtennis Konferenz zum Achtelfinale Session 2 beim Leapmotor Grand Opening mit Timo Boll und Dennis Heinemann live bei Dyn.</desc>
         <icon src="https://images.pluto.tv/series/68a610029889a990edd7ce4a/tile_1755713580712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6866525c8a412a0e95c438b4" start="20261108122800 +0000" stop="20261108132800 +0000">
+        <title>Dyn Highlights All Sports</title>
+        <desc>Dyn Highlights All Sports.</desc>
+        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cfef52704ca31d85c4bf1" start="20261108074431 +0000" stop="20261108084313 +0000">
         <title>Pastewka</title>
