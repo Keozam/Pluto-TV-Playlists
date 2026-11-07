@@ -1101,11 +1101,6 @@
         <lcn>1285</lcn>
         <icon src="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png"/>
     </channel>
-    <channel id="6a4eb535269be3853419f4c7">
-        <display-name>Zuffa Boxing Prelims</display-name>
-        <lcn>1299</lcn>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/colorLogoPNG_1789072206988.png"/>
-    </channel>
     <channel id="6a68dd013ee9d9664278cfb6">
         <display-name>NFL Channel</display-name>
         <lcn>1300</lcn>
@@ -9256,6 +9251,66 @@
         <desc>Brain dreams of being the first to spot a rare bird species called the green-tailed grebe, making him famous. Arthur and Buster's friendship is put to the test when Arthur gives away a present that Buster had given him for his birthday.</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107195008 +0000" stop="20261107201308 +0000">
+        <title>10's Hits</title>
+        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107201308 +0000" stop="20261107203308 +0000">
+        <title>10's Hits</title>
+        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107203308 +0000" stop="20261107205508 +0000">
+        <title>10's Hits</title>
+        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107205508 +0000" stop="20261107212408 +0000">
+        <title>10's Hits</title>
+        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107212408 +0000" stop="20261107214408 +0000">
+        <title>10's Hits</title>
+        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107214408 +0000" stop="20261107221008 +0000">
+        <title>10's Hits</title>
+        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107221008 +0000" stop="20261107222908 +0000">
+        <title>10's Hits</title>
+        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107222908 +0000" stop="20261107225108 +0000">
+        <title>10's Hits</title>
+        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107225108 +0000" stop="20261107231508 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107231508 +0000" stop="20261107233708 +0000">
+        <title>10's Hits</title>
+        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107233708 +0000" stop="20261107235908 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107235908 +0000" stop="20261108002108 +0000">
+        <title>10's Hits</title>
+        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261107200000 +0000" stop="20261107203000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -9771,11 +9826,6 @@
         <desc>Danny and the gang head to the Las Vegas Speedway for Ford Mustang's 50th Anniversary Celebration.</desc>
         <icon src="https://images.pluto.tv/series/65e62147a3a85800138946b1/tile_1790721007766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261107200000 +0000" stop="20261108000000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261107200000 +0000" stop="20261107225959 +0000">
         <title>AHA Hockey: RIT vs Robert Morris - Women's</title>
         <desc>Watch RIT and Robert Morris women face off live in AHA action.</desc>
@@ -9870,66 +9920,6 @@
         <title>Diana Krall - Live In Rio</title>
         <desc>Diana Krall has had a long-time fascination with bossa nova, a type of music which perfectly suits her sophisticated yet sensual style. This stunning concert is filmed in the home of the bossa nova, Rio de Janeiro, in November 2008.</desc>
         <icon src="https://images.pluto.tv/series/6adbe71b4452050dd5fcb982/tile_1792912152642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107195008 +0000" stop="20261107201308 +0000">
-        <title>10's Hits</title>
-        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107201308 +0000" stop="20261107203308 +0000">
-        <title>10's Hits</title>
-        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107203308 +0000" stop="20261107205508 +0000">
-        <title>10's Hits</title>
-        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107205508 +0000" stop="20261107212408 +0000">
-        <title>10's Hits</title>
-        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107212408 +0000" stop="20261107214408 +0000">
-        <title>10's Hits</title>
-        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107214408 +0000" stop="20261107221008 +0000">
-        <title>10's Hits</title>
-        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107221008 +0000" stop="20261107222908 +0000">
-        <title>10's Hits</title>
-        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107222908 +0000" stop="20261107225108 +0000">
-        <title>10's Hits</title>
-        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107225108 +0000" stop="20261107231508 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107231508 +0000" stop="20261107233708 +0000">
-        <title>10's Hits</title>
-        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107233708 +0000" stop="20261107235908 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107235908 +0000" stop="20261108002108 +0000">
-        <title>10's Hits</title>
-        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261107224500 +0000" stop="20261108010500 +0000">
         <title>I, Tonya</title>
@@ -17751,6 +17741,61 @@
         <desc>Fern lands a role in a community theatre production but fears she is not talented enough to be a star actress; Prunella and Marina compete to read a book.</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107235908 +0000" stop="20261108002108 +0000">
+        <title>10's Hits</title>
+        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108002108 +0000" stop="20261108004208 +0000">
+        <title>10's Hits</title>
+        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108004208 +0000" stop="20261108010408 +0000">
+        <title>10's Hits</title>
+        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108010408 +0000" stop="20261108012608 +0000">
+        <title>10's Hits</title>
+        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108012608 +0000" stop="20261108015108 +0000">
+        <title>10's Hits</title>
+        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108015108 +0000" stop="20261108021608 +0000">
+        <title>10's Hits</title>
+        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108021608 +0000" stop="20261108023908 +0000">
+        <title>10's Hits</title>
+        <desc>God's Plan (Drake), Breathin' (Ariana Grande), 24K Magic (Bruno Mars), Girls Like You (Maroon 5 ft. Cardi B), What Do You Mean (Justin Bieber)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108023908 +0000" stop="20261108030008 +0000">
+        <title>10's Hits</title>
+        <desc>All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108030008 +0000" stop="20261108032208 +0000">
+        <title>10's Hits</title>
+        <desc>Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108032208 +0000" stop="20261108034408 +0000">
+        <title>10's Hits</title>
+        <desc>Cake By The Ocean (DNCE) / Shake It Off (Taylor Swift) / Want To Want Me (Jason Derulo) / X (Equis) (Nicky Jam ft. J Balvin) / Castle On The Hill (Ed Sheeran)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108034408 +0000" stop="20261108040808 +0000">
+        <title>10's Hits</title>
+        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108000000 +0000" stop="20261108003000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -18256,11 +18301,6 @@
         <desc>On this hour-long episode Danny is hosting a huge car show and needs to restore a '73 boat-tail Riviera to be the main attraction.</desc>
         <icon src="https://images.pluto.tv/series/65e62147a3a85800138946b1/tile_1790721007766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108000000 +0000" stop="20261108040000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261107225959 +0000" stop="20261108015959 +0000">
         <title>AHL Hockey: Hershey Bears vs Springfield Thunderbirds</title>
         <desc>Watch the Hershey Bears and Springfield Thunderbirds face off live in AHL action.</desc>
@@ -18365,61 +18405,6 @@
         <title>The Doobie Brothers - Live At Wolf Trap</title>
         <desc>Filmed in high definition on 25 July 2004 at Wolf Trap National Park for the Performing Arts in Virginia, Live At Wolf Trap captures The Doobie Brothers in fine form on a set that mixes classic hits with some rarely performed tracks.</desc>
         <icon src="https://images.pluto.tv/series/69e16a143312e3048e405b43/tile_1787350145239.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261107235908 +0000" stop="20261108002108 +0000">
-        <title>10's Hits</title>
-        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108002108 +0000" stop="20261108004208 +0000">
-        <title>10's Hits</title>
-        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108004208 +0000" stop="20261108010408 +0000">
-        <title>10's Hits</title>
-        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108010408 +0000" stop="20261108012608 +0000">
-        <title>10's Hits</title>
-        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108012608 +0000" stop="20261108015108 +0000">
-        <title>10's Hits</title>
-        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108015108 +0000" stop="20261108021608 +0000">
-        <title>10's Hits</title>
-        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108021608 +0000" stop="20261108023908 +0000">
-        <title>10's Hits</title>
-        <desc>God's Plan (Drake), Breathin' (Ariana Grande), 24K Magic (Bruno Mars), Girls Like You (Maroon 5 ft. Cardi B), What Do You Mean (Justin Bieber)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108023908 +0000" stop="20261108030008 +0000">
-        <title>10's Hits</title>
-        <desc>All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108030008 +0000" stop="20261108032208 +0000">
-        <title>10's Hits</title>
-        <desc>Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108032208 +0000" stop="20261108034408 +0000">
-        <title>10's Hits</title>
-        <desc>Cake By The Ocean (DNCE) / Shake It Off (Taylor Swift) / Want To Want Me (Jason Derulo) / X (Equis) (Nicky Jam ft. J Balvin) / Castle On The Hill (Ed Sheeran)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108034408 +0000" stop="20261108040808 +0000">
-        <title>10's Hits</title>
-        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261108032000 +0000" stop="20261108052700 +0000">
         <title>Whiplash</title>
@@ -19095,6 +19080,11 @@
         <title>Convoy</title>
         <desc>Feuding with Sheriff Lyle Wallace (Ernest Borgnine), Martin Penwald (Kris Kristofferson) unites scores of his fellow-drivers via Citizen Band radio into a mile-long convoy which, powered by pent-up resentments, rolls along the Arizona highways.</desc>
         <icon src="https://images.pluto.tv/series/6aa40fb97102b85b8250be15/tile_1789136826445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a9ae4d3bd16a4ed04240d7" start="20261108085100 +0000" stop="20261108113600 +0000">
+        <title>Solomon and Sheba</title>
+        <desc>Yul Brynner as the wise leader and singer of songs, Solomon, who finds his world turned upside down with the appearance of the wily temptress Sheba (Gina Lollobrigida). George Sanders, Marisa Pavan, David Farrar, and Harry Andrews co-star.</desc>
+        <icon src="https://images.pluto.tv/series/69b38092d554a0f2047fb549/tile_1785535202490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a28960eee86450920a1cab3" start="20261108040000 +0000" stop="20261108043000 +0000">
         <title>Pluto TV Spicy</title>
@@ -26291,6 +26281,11 @@
         <desc>Fourth Round.</desc>
         <icon src="https://images.pluto.tv/series/659a3df9ef340f0013f0abdc/tile_1788862236098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261108083300 +0000" stop="20261108090100 +0000">
+        <title>UEFA Champions League Soccer</title>
+        <desc>From Jose Alvalade Stadium in Lisbon, Portugal.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0573e6938001ad780cb/tile_1760370752136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6482f27c17f5e10008c10ff0" start="20261108033100 +0000" stop="20261108040300 +0000">
         <title>Arthur</title>
         <desc>Fern lands a role in a community theatre production but fears she is not talented enough to be a star actress; Prunella and Marina compete to read a book.</desc>
@@ -26335,6 +26330,66 @@
         <title>Arthur</title>
         <desc>After an injury, Brain has to spend some time using a wheelchair. Will he be able to compete in a basketball tournament for charity? The kids are assigned to write a report on someone they admire, and George picks….Buster!</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108034408 +0000" stop="20261108040808 +0000">
+        <title>10's Hits</title>
+        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108040808 +0000" stop="20261108042908 +0000">
+        <title>10's Hits</title>
+        <desc>Beautiful People (Chris Brown Ft. Benny Benassi ) / Dark Horse (Katy Perry Ft. Juicy J) / The Lazy Song (Bruno Mars) / Despacito (Luis Fonsi Feat. Daddy Yankee) / The Middle (Zedd ft. Maren Morris, Grey)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108042908 +0000" stop="20261108045108 +0000">
+        <title>10's Hits</title>
+        <desc>Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108045108 +0000" stop="20261108051308 +0000">
+        <title>10's Hits</title>
+        <desc>bad guy (Billie Eilish) / Stitches (Shawn Mendes) / Starboy (The Weeknd ft. Daft Punk) / Middle (DJ Snake Ft. Bipolar Sunshine) / Heathens (Twenty Øne PilØts)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108051308 +0000" stop="20261108053508 +0000">
+        <title>10's Hits</title>
+        <desc>2U (David Guetta ft. Justin Bieber), What About Us (P!nk), Be The One (Dua Lipa), Take Care (Drake Ft. Rihanna), Into You (Ariana Grande)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108053508 +0000" stop="20261108055808 +0000">
+        <title>10's Hits</title>
+        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108055808 +0000" stop="20261108061808 +0000">
+        <title>10's Hits</title>
+        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108061808 +0000" stop="20261108064008 +0000">
+        <title>10's Hits</title>
+        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108064008 +0000" stop="20261108070908 +0000">
+        <title>10's Hits</title>
+        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108070908 +0000" stop="20261108072908 +0000">
+        <title>10's Hits</title>
+        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108072908 +0000" stop="20261108075508 +0000">
+        <title>10's Hits</title>
+        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108075508 +0000" stop="20261108081408 +0000">
+        <title>10's Hits</title>
+        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108040000 +0000" stop="20261108043000 +0000">
         <title>MTV Spankin’ New</title>
@@ -26851,11 +26906,6 @@
         <desc>The Ferrari 458 Speciale delivers one of the greatest drives ever.</desc>
         <icon src="https://images.pluto.tv/series/69d3c4d02ca4ae01e94c8d8f/tile_1775486161062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108040000 +0000" stop="20261108080000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261108015959 +0000" stop="20261108041608 +0000">
         <title>OHL Hockey: Ottawa 67's vs Brampton Steelheads</title>
         <desc>Watch the Ottawa 67's and Brampton Steelheads face off in live OHL action.</desc>
@@ -26890,6 +26940,11 @@
         <title>NFL Game Re-Airs</title>
         <desc>Brock Purdy and the 49ers defense secure a 37-34 overtime victory over the Las Vegas Raiders. The 49ers improve to 12-4 and are riding a league-leading nine-game win streak.</desc>
         <icon src="https://images.pluto.tv/series/6a6bad8717cebbc5f16ca987/tile_1785441672703.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a68dd013ee9d9664278cfb6" start="20261108084600 +0000" stop="20261108094600 +0000">
+        <title>NFL Throwback</title>
+        <desc>Relive the moments that turned some of the most dominant players in history into legends.</desc>
+        <icon src="https://images.pluto.tv/series/6a6bad6817cebbc5f16c7dce/tile_1785441641095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a8d96996d62a56d3bdd959c" start="20261108040000 +0000" stop="20261108043000 +0000">
         <title>Catching Bass With Dustin Wilks 2024</title>
@@ -26960,66 +27015,6 @@
         <title>Soundgarden - Live in London 2014</title>
         <desc>ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.</desc>
         <icon src="https://images.pluto.tv/series/68b17347e5ae05a890f8963e/tile_1787296212234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108034408 +0000" stop="20261108040808 +0000">
-        <title>10's Hits</title>
-        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108040808 +0000" stop="20261108042908 +0000">
-        <title>10's Hits</title>
-        <desc>Beautiful People (Chris Brown Ft. Benny Benassi ) / Dark Horse (Katy Perry Ft. Juicy J) / The Lazy Song (Bruno Mars) / Despacito (Luis Fonsi Feat. Daddy Yankee) / The Middle (Zedd ft. Maren Morris, Grey)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108042908 +0000" stop="20261108045108 +0000">
-        <title>10's Hits</title>
-        <desc>Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108045108 +0000" stop="20261108051308 +0000">
-        <title>10's Hits</title>
-        <desc>bad guy (Billie Eilish) / Stitches (Shawn Mendes) / Starboy (The Weeknd ft. Daft Punk) / Middle (DJ Snake Ft. Bipolar Sunshine) / Heathens (Twenty Øne PilØts)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108051308 +0000" stop="20261108053508 +0000">
-        <title>10's Hits</title>
-        <desc>2U (David Guetta ft. Justin Bieber), What About Us (P!nk), Be The One (Dua Lipa), Take Care (Drake Ft. Rihanna), Into You (Ariana Grande)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108053508 +0000" stop="20261108055808 +0000">
-        <title>10's Hits</title>
-        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108055808 +0000" stop="20261108061808 +0000">
-        <title>10's Hits</title>
-        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108061808 +0000" stop="20261108064008 +0000">
-        <title>10's Hits</title>
-        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108064008 +0000" stop="20261108070908 +0000">
-        <title>10's Hits</title>
-        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108070908 +0000" stop="20261108072908 +0000">
-        <title>10's Hits</title>
-        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108072908 +0000" stop="20261108075508 +0000">
-        <title>10's Hits</title>
-        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108075508 +0000" stop="20261108081408 +0000">
-        <title>10's Hits</title>
-        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261108074200 +0000" stop="20261108095000 +0000">
         <title>Borg vs. McEnroe</title>
@@ -35156,6 +35151,61 @@
         <desc>The Tibbles tease, D.W. fires back, the Tibbles taunt, D.W. has a snappy comeback, and round and round they go! Will it ever end? Then, D.W.'s new classmate, Cheikh, is Brain's young cousin…and is also from Senegal, Africa!</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108075508 +0000" stop="20261108081408 +0000">
+        <title>10's Hits</title>
+        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108081408 +0000" stop="20261108083608 +0000">
+        <title>10's Hits</title>
+        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108083608 +0000" stop="20261108090008 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108090008 +0000" stop="20261108092208 +0000">
+        <title>10's Hits</title>
+        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108092208 +0000" stop="20261108094408 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108094408 +0000" stop="20261108100608 +0000">
+        <title>10's Hits</title>
+        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108100608 +0000" stop="20261108102708 +0000">
+        <title>10's Hits</title>
+        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108102708 +0000" stop="20261108104908 +0000">
+        <title>10's Hits</title>
+        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108104908 +0000" stop="20261108111108 +0000">
+        <title>10's Hits</title>
+        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108111108 +0000" stop="20261108113608 +0000">
+        <title>10's Hits</title>
+        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108113608 +0000" stop="20261108120108 +0000">
+        <title>10's Hits</title>
+        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108080000 +0000" stop="20261108083000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -35656,11 +35706,6 @@
         <desc>Ken Block discusses Gymkhana, rallying and his passion for cars.</desc>
         <icon src="https://images.pluto.tv/series/69d3c4d02ca4ae01e94c8d8f/tile_1775486161062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108080000 +0000" stop="20261108120000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261108061735 +0000" stop="20261108081811 +0000">
         <title>ECHL Hockey: Allen Americans vs Tulsa Oilers</title>
         <desc>Watch the Allen Americans and Tulsa Oilers face off live in ECHL action.</desc>
@@ -35780,61 +35825,6 @@
         <title>James Taylor - Austin City Limits</title>
         <desc>The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas; the festival features more than 130 bands on eight stages for three days.</desc>
         <icon src="https://images.pluto.tv/series/651de08b91ee7c001a600aa3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108075508 +0000" stop="20261108081408 +0000">
-        <title>10's Hits</title>
-        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108081408 +0000" stop="20261108083608 +0000">
-        <title>10's Hits</title>
-        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108083608 +0000" stop="20261108090008 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108090008 +0000" stop="20261108092208 +0000">
-        <title>10's Hits</title>
-        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108092208 +0000" stop="20261108094408 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108094408 +0000" stop="20261108100608 +0000">
-        <title>10's Hits</title>
-        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108100608 +0000" stop="20261108102708 +0000">
-        <title>10's Hits</title>
-        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108102708 +0000" stop="20261108104908 +0000">
-        <title>10's Hits</title>
-        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108104908 +0000" stop="20261108111108 +0000">
-        <title>10's Hits</title>
-        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108111108 +0000" stop="20261108113608 +0000">
-        <title>10's Hits</title>
-        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108113608 +0000" stop="20261108120108 +0000">
-        <title>10's Hits</title>
-        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261108095000 +0000" stop="20261108121000 +0000">
         <title>I, Tonya</title>
@@ -43906,6 +43896,66 @@
         <desc>Prunella saves everything. Can Arthur help her break her packrat habits in time to put together the display for the school's Earth Day fair? Binky find out that his real name isn't Binky--it's Shelley?!</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108113608 +0000" stop="20261108120108 +0000">
+        <title>10's Hits</title>
+        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108120108 +0000" stop="20261108122408 +0000">
+        <title>10's Hits</title>
+        <desc>God's Plan (Drake), Breathin' (Ariana Grande), 24K Magic (Bruno Mars), Girls Like You (Maroon 5 ft. Cardi B), What Do You Mean (Justin Bieber)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108122408 +0000" stop="20261108124508 +0000">
+        <title>10's Hits</title>
+        <desc>All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108124508 +0000" stop="20261108130708 +0000">
+        <title>10's Hits</title>
+        <desc>Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108130708 +0000" stop="20261108132908 +0000">
+        <title>10's Hits</title>
+        <desc>Cake By The Ocean (DNCE) / Shake It Off (Taylor Swift) / Want To Want Me (Jason Derulo) / X (Equis) (Nicky Jam ft. J Balvin) / Castle On The Hill (Ed Sheeran)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108132908 +0000" stop="20261108135308 +0000">
+        <title>10's Hits</title>
+        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108135308 +0000" stop="20261108141408 +0000">
+        <title>10's Hits</title>
+        <desc>Beautiful People (Chris Brown Ft. Benny Benassi ) / Dark Horse (Katy Perry Ft. Juicy J) / The Lazy Song (Bruno Mars) / Despacito (Luis Fonsi Feat. Daddy Yankee) / The Middle (Zedd ft. Maren Morris, Grey)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108141408 +0000" stop="20261108143608 +0000">
+        <title>10's Hits</title>
+        <desc>Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108143608 +0000" stop="20261108145808 +0000">
+        <title>10's Hits</title>
+        <desc>bad guy (Billie Eilish) / Stitches (Shawn Mendes) / Starboy (The Weeknd ft. Daft Punk) / Middle (DJ Snake Ft. Bipolar Sunshine) / Heathens (Twenty Øne PilØts)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108145808 +0000" stop="20261108152008 +0000">
+        <title>10's Hits</title>
+        <desc>2U (David Guetta ft. Justin Bieber), What About Us (P!nk), Be The One (Dua Lipa), Take Care (Drake Ft. Rihanna), Into You (Ariana Grande)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108152008 +0000" stop="20261108154308 +0000">
+        <title>10's Hits</title>
+        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108154308 +0000" stop="20261108160308 +0000">
+        <title>10's Hits</title>
+        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108120000 +0000" stop="20261108123000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -44431,11 +44481,6 @@
         <desc>The best cars of 2018 face off in an epic road test.</desc>
         <icon src="https://images.pluto.tv/series/69d3c4d02ca4ae01e94c8d8f/tile_1775486161062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108120000 +0000" stop="20261108160000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261108104447 +0000" stop="20261108130021 +0000">
         <title>ECHL Hockey: Idaho Steelheads vs Allen Americans</title>
         <desc>Watch the Idaho Steelheads and Allen Americans face off live in ECHL action.</desc>
@@ -44560,66 +44605,6 @@
         <title>BLACKPINK - The Show</title>
         <desc>The Show opened with Kill This Love, following a video featuring sights of dark and empty cities around the world.[9] Apart from live performances it also included several pre-recorded tracks.</desc>
         <icon src="https://images.pluto.tv/series/64f095fd4bcd33001435ec92/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108113608 +0000" stop="20261108120108 +0000">
-        <title>10's Hits</title>
-        <desc>Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108120108 +0000" stop="20261108122408 +0000">
-        <title>10's Hits</title>
-        <desc>God's Plan (Drake), Breathin' (Ariana Grande), 24K Magic (Bruno Mars), Girls Like You (Maroon 5 ft. Cardi B), What Do You Mean (Justin Bieber)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108122408 +0000" stop="20261108124508 +0000">
-        <title>10's Hits</title>
-        <desc>All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108124508 +0000" stop="20261108130708 +0000">
-        <title>10's Hits</title>
-        <desc>Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108130708 +0000" stop="20261108132908 +0000">
-        <title>10's Hits</title>
-        <desc>Cake By The Ocean (DNCE) / Shake It Off (Taylor Swift) / Want To Want Me (Jason Derulo) / X (Equis) (Nicky Jam ft. J Balvin) / Castle On The Hill (Ed Sheeran)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108132908 +0000" stop="20261108135308 +0000">
-        <title>10's Hits</title>
-        <desc>Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108135308 +0000" stop="20261108141408 +0000">
-        <title>10's Hits</title>
-        <desc>Beautiful People (Chris Brown Ft. Benny Benassi ) / Dark Horse (Katy Perry Ft. Juicy J) / The Lazy Song (Bruno Mars) / Despacito (Luis Fonsi Feat. Daddy Yankee) / The Middle (Zedd ft. Maren Morris, Grey)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108141408 +0000" stop="20261108143608 +0000">
-        <title>10's Hits</title>
-        <desc>Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108143608 +0000" stop="20261108145808 +0000">
-        <title>10's Hits</title>
-        <desc>bad guy (Billie Eilish) / Stitches (Shawn Mendes) / Starboy (The Weeknd ft. Daft Punk) / Middle (DJ Snake Ft. Bipolar Sunshine) / Heathens (Twenty Øne PilØts)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108145808 +0000" stop="20261108152008 +0000">
-        <title>10's Hits</title>
-        <desc>2U (David Guetta ft. Justin Bieber), What About Us (P!nk), Be The One (Dua Lipa), Take Care (Drake Ft. Rihanna), Into You (Ariana Grande)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108152008 +0000" stop="20261108154308 +0000">
-        <title>10's Hits</title>
-        <desc>Sugar (Maroon 5) / Sorry (Justin Bieber) / One Kiss (Calvin Harris &amp; Dua Lipa) / Back To You (Selena Gomez) / Style (Taylor Swift)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108154308 +0000" stop="20261108160308 +0000">
-        <title>10's Hits</title>
-        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261108143000 +0000" stop="20261108162200 +0000">
         <title>Royal Wedding</title>
@@ -52766,6 +52751,66 @@
         <desc>The Tibble Twins are having their first sleepover! Will the Tibbles lock James in the dark basement? Then, a cupcake's been stolen! The primary suspect: Tommy Tibble. D.W. gathers a jury and demands that justice be served.</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108154308 +0000" stop="20261108160308 +0000">
+        <title>10's Hits</title>
+        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108160308 +0000" stop="20261108162508 +0000">
+        <title>10's Hits</title>
+        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108162508 +0000" stop="20261108165408 +0000">
+        <title>10's Hits</title>
+        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108165408 +0000" stop="20261108171408 +0000">
+        <title>10's Hits</title>
+        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108171408 +0000" stop="20261108174008 +0000">
+        <title>10's Hits</title>
+        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108174008 +0000" stop="20261108175908 +0000">
+        <title>10's Hits</title>
+        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108175908 +0000" stop="20261108182108 +0000">
+        <title>10's Hits</title>
+        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108182108 +0000" stop="20261108184508 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108184508 +0000" stop="20261108190708 +0000">
+        <title>10's Hits</title>
+        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108190708 +0000" stop="20261108192908 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108192908 +0000" stop="20261108195108 +0000">
+        <title>10's Hits</title>
+        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108195108 +0000" stop="20261108201208 +0000">
+        <title>10's Hits</title>
+        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108160000 +0000" stop="20261108163000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -53256,11 +53301,6 @@
         <desc>Dan and the team take on the restorations of a 1965 Mustang fastback and a 1951 Studebaker truck. The mustang is for a friend whose plans are far bigger than his budget, and the Studebaker needs a unique design to make it a world-class show vehicle.</desc>
         <icon src="https://images.pluto.tv/series/688286e86cc84ff3eda058d9/tile_1776893553346.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108160000 +0000" stop="20261108200000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261108151240 +0000" stop="20261108174219 +0000">
         <title>SPHL Hockey: Macon Mayhem vs Huntsville Havoc</title>
         <desc>Watch the Macon Mayhem and Huntsville Havoc face off live in SPHL action.</desc>
@@ -53365,66 +53405,6 @@
         <title>The Moody Blues - Days of Future Passed Live</title>
         <desc>This film, capturing an electric evening at The Sony Centre, Toronto, where the band was joined on stage by a full orchestra for the first time ever, is the definitive performance the album Days of Future Passed.</desc>
         <icon src="https://images.pluto.tv/series/68b17341e5ae05a890f87f1e/tile_1787263775767.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108154308 +0000" stop="20261108160308 +0000">
-        <title>10's Hits</title>
-        <desc>Gangnam Style (Psy), Humble (Kendrick Lamar), Shape of You (Ed Sheeran), Mama (Jonas Blue ft. William Singe), That's What I Like (Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108160308 +0000" stop="20261108162508 +0000">
-        <title>10's Hits</title>
-        <desc>Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108162508 +0000" stop="20261108165408 +0000">
-        <title>10's Hits</title>
-        <desc>Mi Gente (J Balvin ft. Willy William), The Edge Of Glory (Lady Gaga), I Will Never Let You Down (Rita Ora), Can't  Hold Us (Macklemore And Ryan Lewis Ft. Ray Dalton), Somebody I Used To Know (Gotye Ft. Kimbra), We Found Love (Rihanna Ft. Calvin Harris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108165408 +0000" stop="20261108171408 +0000">
-        <title>10's Hits</title>
-        <desc>What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108171408 +0000" stop="20261108174008 +0000">
-        <title>10's Hits</title>
-        <desc>We Don't Talk Anymore (Charlie Puth Ft. Selena Gomez), I like it (Cardi B ft. Bad Bunny x J Balvin), Mirrors (Justin Timberlake), A Thousand Years (Christina Perri), Uptown Funk(Mark Ronson Ft. Bruno Mars)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108174008 +0000" stop="20261108175908 +0000">
-        <title>10's Hits</title>
-        <desc>Stay With Me (Sam Smith) / Con Altura (Rosalía &amp; J Balvin feat. El Guincho) / Feel It Still (Portugal The Man) / Airplanes (B.o.B Ft. Hayley Williams) / Get Lucky (Daft Punk Ft. Pharrell Williams)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108175908 +0000" stop="20261108182108 +0000">
-        <title>10's Hits</title>
-        <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108182108 +0000" stop="20261108184508 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108184508 +0000" stop="20261108190708 +0000">
-        <title>10's Hits</title>
-        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108190708 +0000" stop="20261108192908 +0000">
-        <title>10's Hits</title>
-        <desc>All Of Me (John Legend)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108192908 +0000" stop="20261108195108 +0000">
-        <title>10's Hits</title>
-        <desc>Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108195108 +0000" stop="20261108201208 +0000">
-        <title>10's Hits</title>
-        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261108191300 +0000" stop="20261108220100 +0000">
         <title>Avanti!</title>
@@ -57366,6 +57346,31 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6482f27c17f5e10008c10ff0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108195108 +0000" stop="20261108201208 +0000">
+        <title>10's Hits</title>
+        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108201208 +0000" stop="20261108203408 +0000">
+        <title>10's Hits</title>
+        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108203408 +0000" stop="20261108205608 +0000">
+        <title>10's Hits</title>
+        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108205608 +0000" stop="20261108212108 +0000">
+        <title>10's Hits</title>
+        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108212108 +0000" stop="20261109000000 +0000">
+        <title>MTV Classic</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
     <programme channel="6541010f770cf1000866be98" start="20261108200000 +0000" stop="20261108203000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
@@ -57601,11 +57606,6 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/featuredImage_1774557827331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6a4eb535269be3853419f4c7" start="20261108200000 +0000" stop="20261109000000 +0000">
-        <title>Zuffa Boxing Prelims</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/featuredImage_1790178671725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
     <programme channel="6a67825875fd5e3828e83703" start="20261108200000 +0000" stop="20261108230000 +0000">
         <title>SPHL Hockey: Huntsville Havoc vs Knoxville Ice Bears</title>
         <desc>Watch the Huntsville Havoc and Knoxville Ice Bears face off live in SPHL action.</desc>
@@ -57670,30 +57670,5 @@
         <title>Qello Concerts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64240d3d466225000827412b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108195108 +0000" stop="20261108201208 +0000">
-        <title>10's Hits</title>
-        <desc>Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108201208 +0000" stop="20261108203408 +0000">
-        <title>10's Hits</title>
-        <desc>What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108203408 +0000" stop="20261108205608 +0000">
-        <title>10's Hits</title>
-        <desc>Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108205608 +0000" stop="20261108212108 +0000">
-        <title>10's Hits</title>
-        <desc>Thinking Out Loud (Ed Sheeran), Don't You Worry Child (Swedish House Mafia ft. John Martin), Dance Monkey (Tones And I), Hymn For The Weekend (Coldplay), Rude (Magic!)</desc>
-        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1793371473614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261108212108 +0000" stop="20261109000000 +0000">
-        <title>MTV Classic</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
 </tv>

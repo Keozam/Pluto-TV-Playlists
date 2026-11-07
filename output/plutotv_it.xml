@@ -8103,6 +8103,11 @@ Estrella Invitada: Sir Michael Gambon.</desc>
         <desc>Charlie es un joven italoamericano que trata de ascender en la mafia de Nueva York, pero dicho ascenso se ve obstaculizado por su sentimiento de responsabilidad hacia su imprudente amigo, Johnny Boy.</desc>
         <icon src="https://images.pluto.tv/series/673b091ba7fde50013479a1a/tile_1769191562052.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20261108043014 +0000" stop="20261108065014 +0000">
+        <title>El viajante</title>
+        <desc>Oscar a Mejor Película Internacional (2016). Ante el peligro de derrumbe del edificio en el que viven de alquiler, Emad y Rana se ven obligados a mudarse. Un incidente con la inquilina anterior cambiará dramáticamente la vida de la joven pareja.</desc>
+        <icon src="https://images.pluto.tv/series/60d0436328f1d30013ed37aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61373bb45168fe000773eecd" start="20261107223816 +0000" stop="20261108002728 +0000">
         <title>King Kong</title>
         <desc>Un equipo de cine van a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí los recién llegados descubren la existencia de un gigantesco gorila, King Kong.</desc>
@@ -16417,6 +16422,11 @@ En el jardín + Un día mágico</desc>
         <title>NFL Game Re-Airs</title>
         <desc>Brock Purdy and the 49ers defense secure a 37-34 overtime victory over the Las Vegas Raiders. The 49ers improve to 12-4 and are riding a league-leading nine-game win streak.</desc>
         <icon src="https://images.pluto.tv/series/6a6c5d7bfb2bd7ef0855e46a/tile_1785486716665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a02ae3ee9d966427e62c4" start="20261108084600 +0000" stop="20261108094600 +0000">
+        <title>NFL Throwback</title>
+        <desc>Relive the moments that turned some of the most dominant players in history into legends.</desc>
+        <icon src="https://images.pluto.tv/series/6a6c5d61fb2bd7ef0855beb4/tile_1785486690341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a846c44496b635ad62aa13e" start="20261108040000 +0000" stop="20261108043000 +0000">
         <title>That's 80s</title>
