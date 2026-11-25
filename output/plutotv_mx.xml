@@ -1551,6 +1551,11 @@
         <desc>La familia Taylor se enfrenta a muchos problemas. Alexa cuida de su madre enferma de Alzheimer, Beau ha perdido su trabajo en el fútbol y Ravyn necesita ayuda con su matrimonio. Con el apoyo de sus amigos y de la fe, intentan salir adelante.</desc>
         <icon src="https://images.pluto.tv/series/67fd04001426f2773eadb650/tile_1776893452124.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6806d519fea7414f33f57016" start="20261125091100 +0000" stop="20261125113600 +0000">
+        <title>The Journey is the Destination</title>
+        <desc>En esta película biográfica, Dan Eldon, vivaz activista y fotoperiodista de 22 años, corre al frente de una peligrosa labor de socorro de refugiados somalíes.</desc>
+        <icon src="https://images.pluto.tv/series/62eab9086df8ae001a00a3d8/tile_1769748841422.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="699f405a0c8827936bd287bf" start="20261125040155 +0000" stop="20261125060430 +0000">
         <title>Silencio en la nieve</title>
         <desc>Un soldado persigue a un asesino oculto entre las filas de su propio ejército.</desc>
@@ -8761,9 +8766,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <icon src="https://images.pluto.tv/series/6a32d5677c106482456968b2/tile_1790724968807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655f626d57fe4a00085c7c3e" start="20261125091800 +0000" stop="20261125094500 +0000">
-        <title>Pluto TV Series de Comedia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>The King of Queens</title>
+        <desc>En una boda, Doug toma una foto traviesa con una cámara desechable que los novios proporcionaban. Después de dejar que Danny cargue con la culpa, y después de confesarse con un sacerdote, tiene la temida tarea de revelar la verdad.</desc>
+        <icon src="https://images.pluto.tv/series/690ccca5d2a007fabab028c2/tile_1781719201228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655f626d57fe4a00085c7c3e" start="20261125094500 +0000" stop="20261125101000 +0000">
         <title>Anger Management</title>
@@ -8781,9 +8786,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <icon src="https://images.pluto.tv/series/66c4936657d82b00130783d7/tile_1776888729540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655f626d57fe4a00085c7c3e" start="20261125110000 +0000" stop="20261125112700 +0000">
-        <title>Pluto TV Series de Comedia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>The King of Queens</title>
+        <desc>En una boda, Doug toma una foto traviesa con una cámara desechable que los novios proporcionaban. Después de dejar que Danny cargue con la culpa, y después de confesarse con un sacerdote, tiene la temida tarea de revelar la verdad.</desc>
+        <icon src="https://images.pluto.tv/series/690ccca5d2a007fabab028c2/tile_1781719201228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655f626d57fe4a00085c7c3e" start="20261125112700 +0000" stop="20261125130200 +0000">
         <title>Con el culo al aire</title>
@@ -9155,10 +9160,30 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Cuando Jeannie le da a Roger un deseo de cumpleaños, Roger y Tony cambian de cuerpo.</desc>
         <icon src="https://images.pluto.tv/series/5e6a5206725522001445f0a9/tile_1768768926840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699769fa19ac123965833fd3" start="20261125090000 +0000" stop="20261125130000 +0000">
+    <programme channel="699769fa19ac123965833fd3" start="20261125090000 +0000" stop="20261125100000 +0000">
         <title>Cuando los Ángeles Caen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/699769fa19ac123965833fd3/featuredImage_1773786938217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699769fa19ac123965833fd3" start="20261125100000 +0000" stop="20261125110000 +0000">
+        <title>Cuando los Ángeles Caen</title>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699769fa19ac123965833fd3" start="20261125110000 +0000" stop="20261125120000 +0000">
+        <title>Cuando los Ángeles Caen</title>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699769fa19ac123965833fd3" start="20261125120000 +0000" stop="20261125130000 +0000">
+        <title>Cuando los Ángeles Caen</title>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699769fa19ac123965833fd3" start="20261125130000 +0000" stop="20261125140000 +0000">
+        <title>Cuando los Ángeles Caen</title>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69b32974814d27f4aed90fdd" start="20261125075330 +0000" stop="20261125095330 +0000">
         <title>Madre</title>
@@ -21924,6 +21949,11 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <desc>Dos hermanos de la Etiopía rural se separan cuando eran niños para perseguir sus respectivas pasiones de correr y fotografiar, solo para cruzarse de nuevo como adultos.</desc>
         <icon src="https://images.pluto.tv/series/6474bdfaf2a541001bcb3924/tile_1769128922165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6806d519fea7414f33f57016" start="20261125213100 +0000" stop="20261125232100 +0000">
+        <title>Milagro en el Bosque</title>
+        <desc>Un drama convincente sobre los miembros de una familia emocionalmente desconectada. Vive en la tierra de la familia una mujer viejito.</desc>
+        <icon src="https://images.pluto.tv/series/684075f0f50b9615cc36a095/tile_1769101920925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="699f405a0c8827936bd287bf" start="20261125155944 +0000" stop="20261125175732 +0000">
         <title>Una aventura salvaje</title>
         <desc>Dos hermanos y un perro se unen para sobrevivir en la selva después de un accidente.</desc>
@@ -23114,50 +23144,10 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <desc>Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
         <icon src="https://images.pluto.tv/series/5e4ad1056a7897f2460637c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125164800 +0000" stop="20261125171800 +0000">
+    <programme channel="5e98a911c881310007d7aae2" start="20261125170000 +0000" stop="20261125210000 +0000">
         <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125171800 +0000" stop="20261125174800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125174800 +0000" stop="20261125181800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125181800 +0000" stop="20261125184800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125184800 +0000" stop="20261125191800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125191800 +0000" stop="20261125194800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125194800 +0000" stop="20261125201800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125201800 +0000" stop="20261125204800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261125204800 +0000" stop="20261125211800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5ed6828192e8b3000743ef61" start="20261125162700 +0000" stop="20261125171700 +0000">
         <title>Wipeout USA</title>
@@ -23284,95 +23274,15 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <desc>Abigail explota y se va contra Andrea y Rexx. La relación entre Eli y Abel sigue en problemas gracias a Andrea. Los shore organizan una fiesta en casa pero para Chuy la noche se convierte en un infierno.</desc>
         <icon src="https://images.pluto.tv/series/66eadcfd85f1df0013e27f39/tile_1779176881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125170000 +0000" stop="20261125173000 +0000">
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125170000 +0000" stop="20261125210000 +0000">
         <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125173000 +0000" stop="20261125180000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125180000 +0000" stop="20261125183000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125183000 +0000" stop="20261125190000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125190000 +0000" stop="20261125193000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125193000 +0000" stop="20261125200000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125200000 +0000" stop="20261125203000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125203000 +0000" stop="20261125210000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261125210000 +0000" stop="20261125213000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125163500 +0000" stop="20261125170500 +0000">
+    <programme channel="625461ef01f27a0007976ad1" start="20261125170000 +0000" stop="20261125210000 +0000">
         <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125170500 +0000" stop="20261125173500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125173500 +0000" stop="20261125180500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125180500 +0000" stop="20261125183500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125183500 +0000" stop="20261125190500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125190500 +0000" stop="20261125193500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125193500 +0000" stop="20261125200500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125200500 +0000" stop="20261125203500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261125203500 +0000" stop="20261125210500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="63211ba9cad976000794f988" start="20261125162500 +0000" stop="20261125171600 +0000">
         <title>La Selección 2</title>
@@ -23505,9 +23415,9 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <icon src="https://images.pluto.tv/series/6a60d826de5e7239403779d4/tile_1784731687215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6474a86917f5e100089a0c1c" start="20261125191000 +0000" stop="20261125200300 +0000">
-        <title>Hay Amores Que Matan, Amanda</title>
-        <desc>Ante la llegada del Viceministro la doctora Santacruz comienza a sacar la pistola sin que Gumersindo lo advierta.</desc>
-        <icon src="https://images.pluto.tv/series/6a60d826de5e7239403779d4/tile_1784731687215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Novelas de Venezuela</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage_1765471713313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6474a86917f5e100089a0c1c" start="20261125200300 +0000" stop="20261125205600 +0000">
         <title>Hay Amores Que Matan, Amanda</title>
@@ -23565,9 +23475,9 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <icon src="https://images.pluto.tv/series/69a5b09a686531d5fa638034/tile_1785203123082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662bf39756fc840008f25cb9" start="20261125191905 +0000" stop="20261125200929 +0000">
-        <title>Escape Perfecto (2023)</title>
-        <desc>Fernanda da opción incorrecta. Angie y Adir crean match perfecto llevándose muchos premios.</desc>
-        <icon src="https://images.pluto.tv/series/69a5b09a686531d5fa638034/tile_1785203123082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Sony One Escape Perfecto</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/featuredImage_1772461215418.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="662bf39756fc840008f25cb9" start="20261125200929 +0000" stop="20261125205951 +0000">
         <title>Escape Perfecto (2023)</title>
@@ -23634,95 +23544,15 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <desc>Jeremy Wade tiene la misión de rastrear al famoso monstruo del Lago Ness.</desc>
         <icon src="https://images.pluto.tv/series/6b059aaedff0924f72f7acdb/tile_1795529422987.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125170000 +0000" stop="20261125173000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20261125170000 +0000" stop="20261125210000 +0000">
         <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125173000 +0000" stop="20261125180000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125180000 +0000" stop="20261125183000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125183000 +0000" stop="20261125190000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125190000 +0000" stop="20261125193000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125193000 +0000" stop="20261125200000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125200000 +0000" stop="20261125203000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125203000 +0000" stop="20261125210000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261125210000 +0000" stop="20261125213000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125165700 +0000" stop="20261125172700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125172700 +0000" stop="20261125175700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125175700 +0000" stop="20261125182700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125182700 +0000" stop="20261125185700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125185700 +0000" stop="20261125192700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125192700 +0000" stop="20261125195700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125195700 +0000" stop="20261125202700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125202700 +0000" stop="20261125205700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261125205700 +0000" stop="20261125212700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6851b909954170e0128bc71d" start="20261125170000 +0000" stop="20261125210000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6851b909954170e0128bc71d/featuredImage_1783961514793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="68b784d03e17b7676a0378f7" start="20261125162100 +0000" stop="20261125172400 +0000">
         <title>Living with Volcanoes</title>
@@ -23744,10 +23574,10 @@ historia de la serie de Mega Man. También analizaremos en qué consisten los RP
         <desc>Volcanoes are a force of Nature; their unrelenting power has been unleashed for millions of years on Earth, threatening to sweep us away in a fiery inferno at any moment; a group of men and women have embarked on a mission: to understand and protect.</desc>
         <icon src="https://images.pluto.tv/series/6901b875d2a007fabadf0b0b/tile_1761722848929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b784d03e17b7676a0378f7" start="20261125203800 +0000" stop="20261125210600 +0000">
-        <title>Disasters in Space</title>
-        <desc>NASA scrambles to avoid another space shuttle loss.</desc>
-        <icon src="https://images.pluto.tv/series/6901b874d2a007fabadf0898/tile_1761727599292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68b784d03e17b7676a0378f7" start="20261125203800 +0000" stop="20261125210000 +0000">
+        <title>Shockwave</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/featuredImage_1760108950505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="698a45156dc3c71eb1ba6599" start="20261125162531 +0000" stop="20261125171731 +0000">
         <title>Cheaters</title>
@@ -32977,95 +32807,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Lee abre un dojo porque siente que no está entrenando lo suficiente. Tiene la esperanza de que el Dojo recibirá visitantes que lo desafiarán a combatir.</desc>
         <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125210000 +0000" stop="20261125213000 +0000">
+    <programme channel="5f998c1fc54853000797bacd" start="20261125210000 +0000" stop="20261126010000 +0000">
         <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage_1793802456064.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125213000 +0000" stop="20261125220000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125220000 +0000" stop="20261125223000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125223000 +0000" stop="20261125230000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125230000 +0000" stop="20261125233000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261125233000 +0000" stop="20261126000000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261126000000 +0000" stop="20261126003000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261126003000 +0000" stop="20261126010000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261126010000 +0000" stop="20261126013000 +0000">
-        <title>Tastemade Food</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125204445 +0000" stop="20261125211445 +0000">
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261125210000 +0000" stop="20261126010000 +0000">
         <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125211445 +0000" stop="20261125214445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125214445 +0000" stop="20261125221445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125221445 +0000" stop="20261125224445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125224445 +0000" stop="20261125231445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125231445 +0000" stop="20261125234445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261125234445 +0000" stop="20261126001445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261126001445 +0000" stop="20261126004445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261126004445 +0000" stop="20261126011445 +0000">
-        <title>Nickelodeon Teen</title>
-        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
-        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage_1749640836366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5fcea93ffcf94500071c4b2f" start="20261125203400 +0000" stop="20261125210400 +0000">
         <title>Kenan y Kel</title>
@@ -33202,10 +32952,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Match 1 100thieves vs Chaos</desc>
         <icon src="https://images.pluto.tv/series/60cbb0525499b10013ad248d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff3934600d4c7000733ff49" start="20261126005100 +0000" stop="20261126010200 +0000">
-        <title>La historia detrás de…</title>
-        <desc>Te contamos los detalles detras del desarrollo de Metal Gear Solid, una entrega importante en la historia la cual definio la carrera de Hideo Kojima y el destino de los juegos narrativos.</desc>
-        <icon src="https://images.pluto.tv/series/6303c2b820b977001eef7a8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5ff3934600d4c7000733ff49" start="20261126005100 +0000" stop="20261126010000 +0000">
+        <title>Pluto TV E-Sports</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5ff4b9ccf938f8000779eb99" start="20261125205500 +0000" stop="20261125212400 +0000">
         <title>One Piece - Water 7 Saga: ¡Gran aventura en Long Ring Long Land!</title>
@@ -33389,8 +33139,8 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     </programme>
     <programme channel="626c2ed933a2890007e91422" start="20261126000400 +0000" stop="20261126003400 +0000">
         <title>Death Note</title>
-        <desc>Light, conocido mundialmente como Kira, prueba el alcance de los poderes del Death Note matando a 6 convictos de diferentes maneras, así confirma que puede controlar las acciones de sus víctimas ¡antes de que mueran!</desc>
-        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="626c2ed933a2890007e91422" start="20261126003400 +0000" stop="20261126010400 +0000">
         <title>Death Note</title>
@@ -33457,30 +33207,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El marcador está empatado 4x4 en el segundo tiempo. Japón mete a la cancha a Jun Misugi, un jugador excepcionalmente hábil con una enfermedad cardíaca. Jun tiene la oportunidad de compartir el campo con Tsubasa. ¡Argentina está lista para pelear!</desc>
         <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261125210000 +0000" stop="20261125220000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261125220000 +0000" stop="20261125230000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261125230000 +0000" stop="20261126000000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261126000000 +0000" stop="20261126010000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261126010000 +0000" stop="20261126020000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="646ccc7a2858cb0008127367" start="20261125210000 +0000" stop="20261126010000 +0000">
+        <title>Azteca UNO -1 hora</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="646cce4d1593940008a33f09" start="20261125201500 +0000" stop="20261125221500 +0000">
         <title>Lo mejor de Acércate a Rocío</title>
@@ -33537,30 +33267,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Misteriosos ninja voladores han lanzado un ataque repentino contra la Hoja, dejando tras de sí una estela de destrucción. Para salvar su aldea, Naruto y sus amigos se propusieron detener esta nueva amenaza.</desc>
         <icon src="https://images.pluto.tv/series/6515cd39619680001a502cfb/tile_1782276127534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261125200000 +0000" stop="20261125210000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261125210000 +0000" stop="20261125220000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261125220000 +0000" stop="20261125230000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261125230000 +0000" stop="20261126000000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261126000000 +0000" stop="20261126010000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64e35aff6b1fdb0008ea8441" start="20261125210000 +0000" stop="20261126010000 +0000">
+        <title>Imagen TV+</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64fb1f6e6625510008c00848" start="20261125202500 +0000" stop="20261125211700 +0000">
         <title>Holmes: Inspector de viviendas</title>
@@ -33907,20 +33617,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Tres amigos y un motivo para cocinar juntos: divertirse y disfrutar de grandes sabores. Poncho, Mikel y Sumito preparan el trago astronauta, salmón gravlax y bombón de piñonate.</desc>
         <icon src="https://images.pluto.tv/series/6ab7fa647102b85b822b1b04/tile_1790442084902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20261125214100 +0000" stop="20261125221300 +0000">
-        <title>Cocina al cubo</title>
-        <desc>En el episodio de hoy, la alegría de Poncho, Mikel y Sumito se refleja en el paso a paso de preparaciones imperdibles: té verde y amargo, frijolada y mejillones fritos.</desc>
-        <icon src="https://images.pluto.tv/series/6ab7fa647102b85b822b1b04/tile_1790442084902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20261125221300 +0000" stop="20261125224600 +0000">
-        <title>D.O.S. Deli, Orgánico y Saludable</title>
-        <desc>Lo natural, integral y vegetariano hacen parte principal de los ingredientes que se usan en la elaboración de las recetas saludables, que explica el chef Pedro Lambertini, en esta serie D.O.S. (deli, orgánico y saludable).</desc>
-        <icon src="https://images.pluto.tv/series/699cec636607b6b727a48b19/tile_1777522277856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20261125224600 +0000" stop="20261125231900 +0000">
-        <title>D.O.S. Deli, Orgánico y Saludable</title>
-        <desc>Lo natural, integral y vegetariano hacen parte principal de los ingredientes que se usan en la elaboración de las recetas saludables, que explica el chef Pedro Lambertini, en esta serie D.O.S. (deli, orgánico y saludable).</desc>
-        <icon src="https://images.pluto.tv/series/699cec636607b6b727a48b19/tile_1777522277856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6894febddbd49c964f3b66c8" start="20261125214100 +0000" stop="20261125231900 +0000">
+        <title>Plato del Dia by elGourmet</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6894febddbd49c964f3b66c8" start="20261125231900 +0000" stop="20261125235200 +0000">
         <title>Andares de mi tierra</title>
@@ -33942,55 +33642,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Los chefs Bruno y Olivier muestran sus mejores recetas, elaboradas con productos tentadores y de buena calidad, al preparar brochetas de cordero con salsa de queso, postre de queso casero con frutos rojos, crocante de baguette y queso casero.</desc>
         <icon src="https://images.pluto.tv/series/697782a48c4cf95f2a416c80/tile_1769439908884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261125210000 +0000" stop="20261125220000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20261125210000 +0000" stop="20261126010000 +0000">
         <title>Tastemade Home &amp; Travel</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1793803234766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261125220000 +0000" stop="20261125230000 +0000">
-        <title>Tastemade Home &amp; Travel</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261125230000 +0000" stop="20261126000000 +0000">
-        <title>Tastemade Home &amp; Travel</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261126000000 +0000" stop="20261126010000 +0000">
-        <title>Tastemade Home &amp; Travel</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261126010000 +0000" stop="20261126020000 +0000">
-        <title>Tastemade Home &amp; Travel</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261125202818 +0000" stop="20261125212818 +0000">
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20261125210000 +0000" stop="20261126010000 +0000">
         <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261125212818 +0000" stop="20261125222818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261125222818 +0000" stop="20261125232818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261125232818 +0000" stop="20261126002818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261126002818 +0000" stop="20261126012818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="69fcdc73488e575cff213adc" start="20261125200931 +0000" stop="20261125210315 +0000">
         <title>Hermanos a la Obra</title>
@@ -35051,6 +34711,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <title>Shanghai</title>
         <desc>John Cusack interpreta a un oficial de inteligencia estadounidense que regresa a Shaghái a fines de 1941 para investigar la muerte de un amigo.</desc>
         <icon src="https://images.pluto.tv/series/6afc98f05883ecf5719c2aec/tile_1794939121692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddc4e8bcbb9010009b4e84f" start="20261126052700 +0000" stop="20261126075000 +0000">
+        <title>¡Madre!</title>
+        <desc>Jennifer Lawrence y Javier Bardem ofrecen actuaciones inolvidables en ¡Madre!, el elogiado trabajo de Darren Aronofsky. ¡Experimenta el suspenso psicológico visualmente deslumbrante que dejará tu corazón latiendo y te volará la cabeza!</desc>
+        <icon src="https://images.pluto.tv/series/6aa44badfb1489fc5c2cb312/tile_1789152174637.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5defde6d6c07b50009cf0757" start="20261126005300 +0000" stop="20261126023200 +0000">
         <title>El Camino</title>
@@ -39241,6 +38906,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Argentina, after an impressive Group F win led by captain Lionel Messi, battles Switzerland, who finished second in Group E. From Arena de São Paulo in São Paulo, Brazil.</desc>
         <icon src="https://images.pluto.tv/series/66bbe6075b669a00137481cc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66997d18a1b69e00082ee85f" start="20261126054500 +0000" stop="20261126062500 +0000">
+        <title>World Champions: France 1998</title>
+        <desc>The iconic home soil triumph of France at the 1998 FIFA World Cup.</desc>
+        <icon src="https://images.pluto.tv/series/688a17e66cc84ff3ed259496/tile_1761603060126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="673f7446030a2c0008231bc3" start="20261126010000 +0000" stop="20261126013000 +0000">
         <title>C4 en Alerta</title>
         <desc>C4 en Alerta</desc>
@@ -42646,22 +42316,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261126044800 +0000" stop="20261126051800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261126051800 +0000" stop="20261126054800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261126054800 +0000" stop="20261126061800 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
-        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261126061800 +0000" stop="20261126090000 +0000">
+    <programme channel="5e98a911c881310007d7aae2" start="20261126050000 +0000" stop="20261126090000 +0000">
         <title>MTV Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42726,42 +42381,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61a52615cbef2500072876e2/featuredImage-1757349444310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261126050000 +0000" stop="20261126053000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261126053000 +0000" stop="20261126060000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261126060000 +0000" stop="20261126063000 +0000">
-        <title>MTV Teen Mom</title>
-        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
-        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261126063000 +0000" stop="20261126090000 +0000">
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261126050000 +0000" stop="20261126090000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261126043500 +0000" stop="20261126050500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261126050500 +0000" stop="20261126053500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261126053500 +0000" stop="20261126060500 +0000">
-        <title>MTV Catfish</title>
-        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
-        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261126060500 +0000" stop="20261126090000 +0000">
+    <programme channel="625461ef01f27a0007976ad1" start="20261126050000 +0000" stop="20261126090000 +0000">
         <title>MTV Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42906,42 +42531,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a92375cd0d31000847b219/featuredImage_1751039635488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261126050000 +0000" stop="20261126053000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261126053000 +0000" stop="20261126060000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261126060000 +0000" stop="20261126063000 +0000">
-        <title>NatureTime</title>
-        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261126063000 +0000" stop="20261126090000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20261126050000 +0000" stop="20261126090000 +0000">
         <title>NatureTime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261126045700 +0000" stop="20261126052700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261126052700 +0000" stop="20261126055700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261126055700 +0000" stop="20261126062700 +0000">
-        <title>Ink Master</title>
-        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
-        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261126062700 +0000" stop="20261126090000 +0000">
+    <programme channel="6851b909954170e0128bc71d" start="20261126050000 +0000" stop="20261126090000 +0000">
         <title>MTV Ink Master</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6851b909954170e0128bc71d/featuredImage_1783961514793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -44214,12 +43809,42 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="5f998c1fc54853000797bacd" start="20261126050000 +0000" stop="20261126053000 +0000">
+        <title>Tastemade Food</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20261126053000 +0000" stop="20261126060000 +0000">
+        <title>Tastemade Food</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20261126060000 +0000" stop="20261126063000 +0000">
+        <title>Tastemade Food</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile_1793802718484.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20261126063000 +0000" stop="20261126090000 +0000">
         <title>Tastemade Food</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage_1793802456064.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261126044445 +0000" stop="20261126051445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261126051445 +0000" stop="20261126054445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261126054445 +0000" stop="20261126061445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261126061445 +0000" stop="20261126090000 +0000">
         <title>Nickelodeon Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage_1749640836366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -44389,7 +44014,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="646ccc7a2858cb0008127367" start="20261126050000 +0000" stop="20261126060000 +0000">
+        <title>Azteca UNO -1</title>
+        <desc>TBD</desc>
+        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="646ccc7a2858cb0008127367" start="20261126060000 +0000" stop="20261126070000 +0000">
+        <title>Azteca UNO -1</title>
+        <desc>TBD</desc>
+        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="646ccc7a2858cb0008127367" start="20261126070000 +0000" stop="20261126090000 +0000">
         <title>Azteca UNO -1 hora</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -44424,7 +44059,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="64e35aff6b1fdb0008ea8441" start="20261126040000 +0000" stop="20261126050000 +0000">
+        <title>Imagen TV +</title>
+        <desc>Imagen TV+</desc>
+        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64e35aff6b1fdb0008ea8441" start="20261126050000 +0000" stop="20261126060000 +0000">
+        <title>Imagen TV +</title>
+        <desc>Imagen TV+</desc>
+        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64e35aff6b1fdb0008ea8441" start="20261126060000 +0000" stop="20261126090000 +0000">
         <title>Imagen TV+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -44569,10 +44214,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage_1752173303959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6894fc3f66f164e402f4fd14" start="20261126050000 +0000" stop="20261126050200 +0000">
-        <title>Dulce by elGourmet</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/featuredImage_1756447018187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6894fc3f66f164e402f4fd14" start="20261126043100 +0000" stop="20261126050200 +0000">
+        <title>Paulina, Pastelería natural</title>
+        <desc>Con una preparación basada en insumos saludables y naturales, se prepara lingote de chocolate y latitas con panqué de maple.</desc>
+        <icon src="https://images.pluto.tv/series/6abc19ad9abe27364cd67641/tile_1790712238574.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6894fc3f66f164e402f4fd14" start="20261126050200 +0000" stop="20261126053500 +0000">
         <title>Siempre Dulce</title>
@@ -44589,10 +44234,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/featuredImage_1756447018187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20261126050000 +0000" stop="20261126052000 +0000">
-        <title>Plato del Dia by elGourmet</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6894febddbd49c964f3b66c8" start="20261126044700 +0000" stop="20261126052000 +0000">
+        <title>D.O.S. Deli, Orgánico y Saludable</title>
+        <desc>Lo natural, integral y vegetariano hacen parte principal de los ingredientes que se usan en la elaboración de las recetas saludables, que explica el chef Pedro Lambertini, en esta serie D.O.S. (deli, orgánico y saludable).</desc>
+        <icon src="https://images.pluto.tv/series/699cec636607b6b727a48b19/tile_1777522277856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6894febddbd49c964f3b66c8" start="20261126052000 +0000" stop="20261126055200 +0000">
         <title>D.O.S. Deli, Orgánico y Saludable</title>
@@ -44609,12 +44254,32 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20261126050000 +0000" stop="20261126060000 +0000">
+        <title>Tastemade Home &amp; Travel</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20261126060000 +0000" stop="20261126070000 +0000">
+        <title>Tastemade Home &amp; Travel</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1793803321029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20261126070000 +0000" stop="20261126090000 +0000">
         <title>Tastemade Home &amp; Travel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1793803234766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20261126050000 +0000" stop="20261126090000 +0000">
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20261126042818 +0000" stop="20261126052818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20261126052818 +0000" stop="20261126062818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20261126062818 +0000" stop="20261126090000 +0000">
         <title>Al Ritmo del Jaripeo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

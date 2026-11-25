@@ -3551,6 +3551,11 @@
         <desc>Cedric Lockwood, renommierter Kunstkenner und Freund von Brad, wurde überfallen, sein Haus, das Patricia gerade luxuriös eingerichtet hatte, verwüstet.</desc>
         <icon src="https://images.pluto.tv/series/6823452330b839eca5519224/tile_1747141924364.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5cb5cfe5caf83414128f209e" start="20261125091855 +0000" stop="20261125113102 +0000">
+        <title>Francis Durbridge-Collection</title>
+        <desc>Larry Campbell hat sich viele Feinde geschaffen, denn seine Geschäftspraktiken sind nicht immer fair.</desc>
+        <icon src="https://images.pluto.tv/series/6823452330b839eca5519224/tile_1747141924364.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5d767a76367b89cf0032550d" start="20261125045721 +0000" stop="20261125063139 +0000">
         <title>Magische Weihnachten - A Very Nutty Christmas</title>
         <desc>Kate Holiday, Inhaberin der 'Dancing Flours Bakery', ist im Weihnachtsstress. Überlastet mit Bestellungen, verlässt sie auch noch ihr Freund, der lokale Santa Claus. Das Fest der Liebe scheint für sie vorbei zu sein, doch manchmal geschehen Wunder...</desc>
@@ -10765,6 +10770,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
     <programme channel="5cb5cfe5caf83414128f209e" start="20261125113102 +0000" stop="20261125132933 +0000">
         <title>Francis Durbridge-Collection</title>
         <desc>Glenn Howard will seine reiche Frau Maggie aus dem Weg räumen. Mit einem raffinierten Plan und mit Hilfe seiner Geliebten legt er zugleich eine falsche Spur.</desc>
+        <icon src="https://images.pluto.tv/series/6823452330b839eca5519224/tile_1747141924364.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cb5cfe5caf83414128f209e" start="20261125132933 +0000" stop="20261125152913 +0000">
+        <title>Francis Durbridge-Collection</title>
+        <desc>Kurz vor Abschluss seines "Tagebuchs" verhandelt der Schriftsteller Max Telligan in München mit dem Filmproduzenten Wilde über die Weltrechte des neuen Werks.</desc>
         <icon src="https://images.pluto.tv/series/6823452330b839eca5519224/tile_1747141924364.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767a76367b89cf0032550d" start="20261125080507 +0000" stop="20261125094007 +0000">
@@ -20017,6 +20027,11 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>In diesem romantischen Fantasyfilm wird Joe Pendleteon (Warren Beatty), Quarterback der Los Angeles Rams, von einem übereifrigen Engel fälschlicherweise in den Himmel bestellt.</desc>
         <icon src="https://images.pluto.tv/series/64c37850e54881001389af26/tile_1784817030499.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5c5c3b948002db3c3e0b262e" start="20261125171908 +0000" stop="20261125191508 +0000">
+        <title>Little Monsters</title>
+        <desc>Brian (Fred Savage) lernt Maurice (Howie Mandell) kennen, das freundliche aber bekloppte Monster, das unter seinem Bett lebt.</desc>
+        <icon src="https://images.pluto.tv/series/5e904a519af349001acb0fce/tile_1780425063630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5cb5d043a461406ffe3fb2de" start="20261125121158 +0000" stop="20261125130440 +0000">
         <title>Julia – Wege zum Glück: Kapitel 181</title>
         <desc>Als sich bei Julia ein Zeuge meldet, schöpfen sie und Daniel neue Hoffnung. Während Charlotte an Maries Seite wacht, muss Niko zwischen Tobias und Lilly vermitteln.</desc>
@@ -21117,10 +21132,68 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Bentley steht für gediegenen Luxus. Im wuchtigen Sportcoupé Continental GT W12 mit seinen 635 PS stecken traditionelle britische Handwerkskunst und innovative High-Tech-Präzision.</desc>
         <icon src="https://images.pluto.tv/series/621f64e733b8100013bfae60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e4519e6873180007d3cddb" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="60e4519e6873180007d3cddb" start="20261125124539 +0000" stop="20261125131539 +0000">
         <title>BBC Lifestyle</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/featuredImage_1783324912745.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125131539 +0000" stop="20261125134539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125134539 +0000" stop="20261125141539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125141539 +0000" stop="20261125144539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125144539 +0000" stop="20261125151539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125151539 +0000" stop="20261125154539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125154539 +0000" stop="20261125161539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125161539 +0000" stop="20261125164539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4519e6873180007d3cddb" start="20261125164539 +0000" stop="20261125171539 +0000">
+        <title>BBC Lifestyle</title>
+        <desc>BBC Lifestyle ist der Feelgood
+Sender mit inspirierenden Sendungen rund um Essen,
+Wohnen, Reisen, Mode und Gesundheit.</desc>
+        <icon src="https://images.pluto.tv/series/6a50a9a1a4cfc69ba6e4019d/tile_1783671237390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="617aad99b68ef100072608cd" start="20261125124356 +0000" stop="20261125133618 +0000">
         <title>Eine Nacht Im Museum</title>
@@ -21147,10 +21220,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Vom Duell, das ein Genie tötete, bis zu Lenins Rolls-Royce – entdecken Sie die Geheimnisse des Staatlichen Historischen Museums.</desc>
         <icon src="https://images.pluto.tv/series/68d1631471d0752d87bbb425/tile_1768257171441.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b33085897b9d000702b72e" start="20261125130000 +0000" stop="20261125170000 +0000">
-        <title>Just.fishing</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/61b33085897b9d000702b72e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="61b33085897b9d000702b72e" start="20261125123001 +0000" stop="20261125130001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125130001 +0000" stop="20261125133001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125133001 +0000" stop="20261125140001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125140001 +0000" stop="20261125143001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125143001 +0000" stop="20261125150001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125150001 +0000" stop="20261125153001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125153001 +0000" stop="20261125160001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125160001 +0000" stop="20261125163001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b33085897b9d000702b72e" start="20261125163001 +0000" stop="20261125170001 +0000">
+        <title>Just.Fishing</title>
+        <desc>Der Angelkanal für begeisterte Outdoor-Liebhaber.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8c9044922866c18192130/tile_1791543575105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62a0b2aff4cf470007e47e29" start="20261125123600 +0000" stop="20261125132800 +0000">
         <title>Fluss-Monster: Im Wasser mit Zitteraalen</title>
@@ -21202,60 +21315,230 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Irgendwo in der Nähe des staubigen Ortes Integrity in Arizona liegt ein Vermögen vergraben. Drei konföderierte Soldaten versteckten einen gestohlenen Goldschatz bei einem Wasserloch in der Wüste.</desc>
         <icon src="https://images.pluto.tv/series/62fb9dcf85bbed001af86253/tile_1781619481389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64526a145a0cd50008632bfa" start="20261125130000 +0000" stop="20261125190107 +0000">
-        <title>Pluto TV heiße Nächte</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125123107 +0000" stop="20261125130107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64526a145a0cd50008632bfa" start="20261125190107 +0000" stop="20261125213152 +0000">
-        <title>Verführerischer Mond</title>
-        <desc>Im Shanghai Anfang des Jahrhunderts zählen innerhalb einer großen Patrizierfamilie nicht mehr die gängigen Werte. Als sich ein junger Mann für die Tochter des Hauses interessiert, eskaliert der Verfall. Bildgewaltiges Familiendrama.</desc>
-        <icon src="https://images.pluto.tv/series/66432ae15faaa600140b77d6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125130107 +0000" stop="20261125133107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64526a145a0cd50008632bfa" start="20261125213152 +0000" stop="20261125233239 +0000">
-        <title>Isabella – Days of Desire</title>
-        <desc>Isabellas Leben zerbrach mit 13 Jahren, als ihre Mutter starb. Ihr Vater Frank gab Isabella daraufhin in die Hände von Therapeuten. Franks neue Frau überzeugt ihn, mit der Familie nach Italien zu ziehen, um sich einander wieder anzunähern.</desc>
-        <icon src="https://images.pluto.tv/series/68271eed02c81f7418497ad7/tile_1778874485101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125133107 +0000" stop="20261125140107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64526a145a0cd50008632bfa" start="20261125233239 +0000" stop="20261126005516 +0000">
-        <title>Red Latex</title>
-        <desc>Eric fühlt sich mit seinem Leben überfordert. Seine schwangere Frau, seine Schwiegereltern, sein Boss – alle scheinen ihn zu erdrücken. Er flüchtet auf das Anwesen von Domina Gise, die ihn sofort zu ihrem Sexsklaven erziehen will.</desc>
-        <icon src="https://images.pluto.tv/series/68271d8b12cab50db68a5a5a/tile_1767837249105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125140107 +0000" stop="20261125143107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a0ddfe1979c00086d83ff" start="20261125130000 +0000" stop="20261125210055 +0000">
-        <title>Red Shoe Diaries</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/645a0ddfe1979c00086d83ff/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125143107 +0000" stop="20261125150107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a0ddfe1979c00086d83ff" start="20261125210055 +0000" stop="20261125213055 +0000">
-        <title>Red Shoe Diaries DE: Happy End im Heu</title>
-        <desc>Als eine geschiedene Frau in ihr kleines Stadthaus zurückkehrt, wo sie einen Cowboy trifft, erkennt sie, dass es sich um den wilden Jungen handelt, den sie in der High School geliebt hat.</desc>
-        <icon src="https://images.pluto.tv/series/6475d730e05e97001a97646e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125150107 +0000" stop="20261125153107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a0ddfe1979c00086d83ff" start="20261125213055 +0000" stop="20261125220055 +0000">
-        <title>Red Shoe Diaries DE: Tödliche Spiele</title>
-        <desc>Nachdem Daisy mit ihrem neuen Freund Michael geschlafen hat, finden sie sich als Geiseln ihres Ex wieder. Dieser hat sie die ganze Zeit beobachtet und aufgenommen, und eine Bombe versteckt.</desc>
-        <icon src="https://images.pluto.tv/series/6475d730e05e97001a97646e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125153107 +0000" stop="20261125160107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a0ddfe1979c00086d83ff" start="20261125220055 +0000" stop="20261125223555 +0000">
-        <title>Red Shoe Diaries DE: Verführung nach Punkten</title>
-        <desc>Kate ist eine Fotografin, die die Liebe aufgegeben hat. Bis sie sich in Max verliebt, einen kämpfenden Boxer, dem sie erlaubt, in ihrem Loft zu bleiben, während sie gemeinsam an einer Parfümwerbung arbeiten. Mit Max' Hilfe lernt Kate wieder zu lieben.</desc>
-        <icon src="https://images.pluto.tv/series/6475d730e05e97001a97646e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64526a145a0cd50008632bfa" start="20261125160107 +0000" stop="20261125163107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6576c20fb3801200084786c9" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="64526a145a0cd50008632bfa" start="20261125163107 +0000" stop="20261125170107 +0000">
+        <title>Pluto TV Heiße Nächte startet um 20:00 Uhr</title>
+        <desc>Der Sommer wird heiß, die Nächte auf Pluto noch heißer! Für garantiert schlaflose Nächte sorgt dieser Sender.</desc>
+        <icon src="https://images.pluto.tv/series/647f510d536e0c00089da2ff/tile_1762428517950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125123055 +0000" stop="20261125130055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125130055 +0000" stop="20261125133055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125133055 +0000" stop="20261125140055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125140055 +0000" stop="20261125143055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125143055 +0000" stop="20261125150055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125150055 +0000" stop="20261125153055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125153055 +0000" stop="20261125160055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125160055 +0000" stop="20261125163055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a0ddfe1979c00086d83ff" start="20261125163055 +0000" stop="20261125170055 +0000">
+        <title>Red Shoe Diaries startet um 22:00 Uhr</title>
+        <desc>Pluto TV widmet der erotischen 90er-Jahre-Serie „Red Shoe Diaries“ von Zalman King gleich einen ganzen Sender. In der Serie teilen Frauen ihre intimen Tagebucheinträge mit dem Autor Jake (David Duchovny).</desc>
+        <icon src="https://images.pluto.tv/series/647f52fc536e0c00089da9a5/tile_1762442617812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125130000 +0000" stop="20261125133000 +0000">
         <title>SPIEGEL TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6576c20fb3801200084786c9/featuredImage_1761807707558.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b923f90cb1a100088a03ab" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="6576c20fb3801200084786c9" start="20261125133000 +0000" stop="20261125140000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125140000 +0000" stop="20261125143000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125143000 +0000" stop="20261125150000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125150000 +0000" stop="20261125153000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125153000 +0000" stop="20261125160000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125160000 +0000" stop="20261125163000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125163000 +0000" stop="20261125170000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6576c20fb3801200084786c9" start="20261125170000 +0000" stop="20261125173000 +0000">
+        <title>SPIEGEL TV</title>
+        <desc>Entdecke spannende Magazinbeiträge, Reportagen und Dokumentationen produziert von SPIEGEL TV. Und bleibe auf dem Laufenden durch News und Polittalks direkt aus der Redaktion von DER SPIEGEL.</desc>
+        <icon src="https://images.pluto.tv/series/65fc16952873090008d9f821/tile_1783969184969.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125130000 +0000" stop="20261125133000 +0000">
         <title>Terra Mater WILD</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b9268fc798e800085add89" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125133000 +0000" stop="20261125140000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125140000 +0000" stop="20261125143000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125143000 +0000" stop="20261125150000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125150000 +0000" stop="20261125153000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125153000 +0000" stop="20261125160000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125160000 +0000" stop="20261125163000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125163000 +0000" stop="20261125170000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b923f90cb1a100088a03ab" start="20261125170000 +0000" stop="20261125173000 +0000">
+        <title>Terra Mater WILD</title>
+        <desc>Faszinierende Tierdokus und atemberaubende Naturfilme zum Staunen, Entspannen und Entdecken – auf Terra Mater WILD.</desc>
+        <icon src="https://images.pluto.tv/series/65e19ebe2873090008a55b14/tile_1784658077644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125130000 +0000" stop="20261125133000 +0000">
         <title>SPIEGEL TV Konflikte</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65b9268fc798e800085add89/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125133000 +0000" stop="20261125140000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125140000 +0000" stop="20261125143000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125143000 +0000" stop="20261125150000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125150000 +0000" stop="20261125153000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125153000 +0000" stop="20261125160000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125160000 +0000" stop="20261125163000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125163000 +0000" stop="20261125170000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b9268fc798e800085add89" start="20261125170000 +0000" stop="20261125173000 +0000">
+        <title>SPIEGEL TV Konflikte</title>
+        <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
+        <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile_1783969235165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="663a15d7cb3ea10008edac88" start="20261125125400 +0000" stop="20261125140300 +0000">
         <title>Die CLAAS Mähdrescher Story</title>
@@ -21277,85 +21560,185 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Ein Mega-Lohnunternehmen beackert mit tausenden Pferdestärken zehntausende Hektar Fläche. Es wird Großes geboten: Mensch und Maschine sind hier digital vernetzt, die Boliden ackern hocheffektiv, tonnenschwere Traktoren laufen Tag und Nacht.</desc>
         <icon src="https://images.pluto.tv/series/687e1ea4a53444ef2a64f938/tile_1753095965328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a176ecb3ea10008edacf9" start="20261125130000 +0000" stop="20261125210036 +0000">
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125123036 +0000" stop="20261125130036 +0000">
         <title>Pluto TV Stimulierende Dokus</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/663a176ecb3ea10008edacf9/featuredImage_1784109744018.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a176ecb3ea10008edacf9" start="20261125210036 +0000" stop="20261125213255 +0000">
-        <title>Polyamory</title>
-        <desc>Lindsay und Anthony sind seit vier Jahren verheiratet und leben polyamor mit Vanessa. Kamala und Michael sind seit zehn Jahren verheiratet, haben einen Sohn und zwölf LiebhaberInnen. Sie laden das polyamore Paar Jen und Tahl ein, bei ihnen einzuziehen.</desc>
-        <icon src="https://images.pluto.tv/series/6984c9c8bfab348f05aaf67e/tile_1770310089551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125130036 +0000" stop="20261125133036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a176ecb3ea10008edacf9" start="20261125213255 +0000" stop="20261125220402 +0000">
-        <title>Polyamory</title>
-        <desc>Anthony und Vanessa stören sich daran, dass Lindsey zu sehr an ihrem Freund hängt. Beim Besuch kommt es zur Aussprache. Währenddessen feiern Kamala, Michael, Jen und Tahl ihr Zusammenleben.</desc>
-        <icon src="https://images.pluto.tv/series/6984c9c8bfab348f05aaf67e/tile_1770310089551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125133036 +0000" stop="20261125140036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663a176ecb3ea10008edacf9" start="20261125220402 +0000" stop="20261125223521 +0000">
-        <title>Polyamory</title>
-        <desc>Kamala und Michael feiern Hochzeitstag. Kamala schenkt Michael ein Date mit Roxane, bekommt jedoch Zweifel, kaum sind sie weg. Währenddessen bereitet Vanessa einen Heiratsantrag vor – doch wem gilt er?</desc>
-        <icon src="https://images.pluto.tv/series/6984c9c8bfab348f05aaf67e/tile_1770310089551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125140036 +0000" stop="20261125143036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f10c4f9992200084a2f47" start="20261125130000 +0000" stop="20261125190039 +0000">
-        <title>Pluto TV Heiße Nächte Retro</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/664f10c4f9992200084a2f47/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125143036 +0000" stop="20261125150036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f10c4f9992200084a2f47" start="20261125190039 +0000" stop="20261125203731 +0000">
-        <title>Playgirl</title>
-        <desc>Alexandra Borowski, Mitte zwanzig, Fotomodell der Spitzenklasse, ist eines jener Jet-Set-Girls, welche heute nach New York, morgen auf die Bermudas und übermorgen nach Rom fliegen. Sie bleibt nie lange in einem Hotel, nie lange bei einem Mann.</desc>
-        <icon src="https://images.pluto.tv/series/668e387c9322c000130fe427/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125150036 +0000" stop="20261125153036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f10c4f9992200084a2f47" start="20261125203731 +0000" stop="20261125222043 +0000">
-        <title>First Love</title>
-        <desc>Zwei Studenten lassen sich zu leidenschaftlicher Liebe hinreißen, bis er merkt, dass sie mit einem älteren verheirateten Mann liiert ist. Basierend auf der Kurzgeschichte "Sentimental Education".</desc>
-        <icon src="https://images.pluto.tv/series/6aaa6fb8ed186c2c8573f740/tile_1789554617330.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125153036 +0000" stop="20261125160036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f10c4f9992200084a2f47" start="20261125222043 +0000" stop="20261126001557 +0000">
-        <title>Nackte Eva DE</title>
-        <desc>Eva kommt nach Hongkong. Als sie Eva mit einer Schlange auftreten sieht, interessiert sich Judas für sie.</desc>
-        <icon src="https://images.pluto.tv/series/66869e469322c00013dac53a/tile_1767841980777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125160036 +0000" stop="20261125163036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125130000 +0000" stop="20261125210048 +0000">
-        <title>Pluto TV Sanfte Berührungen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67d983d6a1609bdb523f5f9b/featuredImage_1745932379453.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="663a176ecb3ea10008edacf9" start="20261125163036 +0000" stop="20261125170036 +0000">
+        <title>Pluto TV Stimulierende Dokus</title>
+        <desc>Manche Dokus regen nicht nur den Verstand an. Tauche ein in Serien voller Liebe, Lust und Leidenschaft!</desc>
+        <icon src="https://images.pluto.tv/series/6a5dd813203effa8560d401b/tile_1784535089624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125210048 +0000" stop="20261125232119 +0000">
-        <title>Reife Ladies, junge Kerle</title>
-        <desc>12 Paare in 2 Stunden! Reife Mädels wollen nur junge und knackige Kerle vernaschen - und Sie sind hautnah dabei...</desc>
-        <icon src="https://images.pluto.tv/series/684036a84550849057866699/tile_1778802850416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125123039 +0000" stop="20261125130039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125232119 +0000" stop="20261126003019 +0000">
-        <title>Erotic Adventures - Erotische Abenteuer für Paare</title>
-        <desc>Erotische Abenteuer beflügeln seit jeher die Fantasie der Menschen. In diesem Film finden Sie eine bunte Palette vielfältiger Anregungen für Ihre ganz privaten Fantasien…</desc>
-        <icon src="https://images.pluto.tv/series/64785cab662d03001b2c3b60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125130039 +0000" stop="20261125133039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d983d6a1609bdb523f5f9b" start="20261126003019 +0000" stop="20261126020351 +0000">
-        <title>Love Toys für Paare</title>
-        <desc>Scharfe Sexspiele in Verbindung mit raffiniertem Lustspielzeug! Werden Sie Zeuge von vier aufregenden Szenen, in denen attraktive Paare verschiedene Sex-Toys ins Liebesspiel integrieren.</desc>
-        <icon src="https://images.pluto.tv/series/684036ab455084905786da49/tile_1778803926130.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125133039 +0000" stop="20261125140039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67ebc04855de98dc71428538" start="20261125130000 +0000" stop="20261125210009 +0000">
-        <title>Pluto TV Emmanuelle Filme</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67ebc04855de98dc71428538/featuredImage_1768808619480.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125140039 +0000" stop="20261125143039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67ebc04855de98dc71428538" start="20261125210009 +0000" stop="20261125223522 +0000">
-        <title>Emmanuelle in Venedig</title>
-        <desc>Die reiche Witwe Anais lebt mit ihrer Schwiegermutter Penelope und Magd Maria in Venedig. Durch Emmanuelles Zauberparfüm entfacht in Anais ein Verlangen nach Maria. Emmanuelle hilft auch Penelope, die bei einem Indien-Ausflug ein Wiedersehen erlebt.</desc>
-        <icon src="https://images.pluto.tv/series/690dbe926fe1b6a13d7a3aca/tile_1762508438201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125143039 +0000" stop="20261125150039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67ebc04855de98dc71428538" start="20261125223522 +0000" stop="20261126001719 +0000">
-        <title>Emmanuelle und Freundin</title>
-        <desc>Nicki, eine Freundin von Emmanuelle, ist in den reichen Geschäftsmann Nino verliebt, weiß aber nicht, wie sie es ihm sagen soll. Emmanuelle hilft ihr mit einem Zauberparfüm, ihre Identitäten zu tauschen, und es beginnen heiße erotische Spiele.</desc>
-        <icon src="https://images.pluto.tv/series/69048fa86538cde566c957c7/tile_1761912172748.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125150039 +0000" stop="20261125153039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67ebc04855de98dc71428538" start="20261126001719 +0000" stop="20261126014348 +0000">
-        <title>Emmanuelle - Im Teufelskreis der Leidenschaft</title>
-        <desc>Mit einer Kamera und zwei üppigen Blondinen am Hals als „Modefotograf“ getarnt, fahndet Geheimagent Paul in Bangkok nach zwei verschollenen Kollegen. Das schwüle Klima Thailands läßt ihn den Auftrag jedoch schnell vergessen.</desc>
-        <icon src="https://images.pluto.tv/series/66868a8b9322c00013daa589/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125153039 +0000" stop="20261125160039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125160039 +0000" stop="20261125163039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f10c4f9992200084a2f47" start="20261125163039 +0000" stop="20261125170039 +0000">
+        <title>Pluto TV Heiße Nächte Retro startet um 20:00 Uhr</title>
+        <desc>Lass dich dazu verführen, in sinnlichen Erinnerungen zu schwelgen und erlebe die Leidenschaft vergangener Zeiten.</desc>
+        <icon src="https://images.pluto.tv/series/67989c43e9b952000823e588/tile_1762448047491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125123048 +0000" stop="20261125130048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125130048 +0000" stop="20261125133048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125133048 +0000" stop="20261125140048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125140048 +0000" stop="20261125143048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125143048 +0000" stop="20261125150048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125150048 +0000" stop="20261125153048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125153048 +0000" stop="20261125160048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125160048 +0000" stop="20261125163048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d983d6a1609bdb523f5f9b" start="20261125163048 +0000" stop="20261125170048 +0000">
+        <title>Pluto TV Sanfte Berührungen startet um 22:00 Uhr</title>
+        <desc>Was gibt es schöneres nach einem langen, harten Tag als Zeit zu zweit voller Leidenschaft und Versuchungen?</desc>
+        <icon src="https://images.pluto.tv/series/68108b8698ff6e71a1447f74/tile_1749219651881.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125123009 +0000" stop="20261125130009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125130009 +0000" stop="20261125133009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125133009 +0000" stop="20261125140009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125140009 +0000" stop="20261125143009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125143009 +0000" stop="20261125150009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125150009 +0000" stop="20261125153009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125153009 +0000" stop="20261125160009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125160009 +0000" stop="20261125163009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ebc04855de98dc71428538" start="20261125163009 +0000" stop="20261125170009 +0000">
+        <title>Pluto TV Emmanuelle Filme  - Daytime Card</title>
+        <desc>Self-determined and sensual, the young Emmanuelle experiences exciting adventures in all corners of the world, reflects on love, and gives free rein to her lust and passion.</desc>
+        <icon src="https://images.pluto.tv/series/697375fca060d9fa6c60c7fd/tile_1769174550668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="682453215c646751955e1204" start="20261125124312 +0000" stop="20261125133912 +0000">
         <title>Tausend Meilen Staub: Incident at Confidence Creek</title>
@@ -21377,50 +21760,100 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Ein Mädchen hilft Hey Soos, der Befehle missachtet hat, die Gunst seiner Chefs wiederzuerlangen.</desc>
         <icon src="https://images.pluto.tv/series/64804891f2a541001bffa769/tile_1790722442408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682453215c646751955e1204" start="20261125162712 +0000" stop="20261125170000 +0000">
-        <title>Pluto TV Western Serien</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/682453215c646751955e1204/featuredImage_1758265235869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="682453215c646751955e1204" start="20261125162712 +0000" stop="20261125172312 +0000">
+        <title>Tausend Meilen Staub: Incident at Ten Trees</title>
+        <desc>Gil Favor und seine Viehtreiber kämpfen darum, eine geisteskranke Frau davor zu bewahren, von den Cheyenne als Hexe verbrannt zu werden.</desc>
+        <icon src="https://images.pluto.tv/series/64804891f2a541001bffa769/tile_1790722442408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27437e6767bdeb23f0336" start="20261125130000 +0000" stop="20261125210049 +0000">
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125123049 +0000" stop="20261125130049 +0000">
         <title>Gigolos</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/featuredImage_1758705599585.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27437e6767bdeb23f0336" start="20261125210049 +0000" stop="20261125213539 +0000">
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125130049 +0000" stop="20261125133049 +0000">
         <title>Gigolos</title>
-        <desc>SHOWTIME® präsentiert GIGOLOS, eine provokante Reality-Serie über fünf Männer in Las Vegas, die als High-End-Escorts arbeiten und ihr Leben zwischen Liebe, Freundschaft und den Erwartungen anspruchsvoller Kundinnen meistern.</desc>
-        <icon src="https://images.pluto.tv/series/69524e53b259a78ff06ffe43/tile_1767001690509.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27437e6767bdeb23f0336" start="20261125213539 +0000" stop="20261125220739 +0000">
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125133049 +0000" stop="20261125140049 +0000">
         <title>Gigolos</title>
-        <desc>SHOWTIME® präsentiert GIGOLOS, eine provokante Reality-Serie über fünf Männer in Las Vegas, die als High-End-Escorts arbeiten und ihr Leben zwischen Liebe, Freundschaft und den Erwartungen anspruchsvoller Kundinnen meistern.</desc>
-        <icon src="https://images.pluto.tv/series/69524e53b259a78ff06ffe43/tile_1767001690509.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27437e6767bdeb23f0336" start="20261125220739 +0000" stop="20261125223922 +0000">
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125140049 +0000" stop="20261125143049 +0000">
         <title>Gigolos</title>
-        <desc>SHOWTIME® präsentiert GIGOLOS, eine provokante Reality-Serie über fünf Männer in Las Vegas, die als High-End-Escorts arbeiten und ihr Leben zwischen Liebe, Freundschaft und den Erwartungen anspruchsvoller Kundinnen meistern.</desc>
-        <icon src="https://images.pluto.tv/series/69524e53b259a78ff06ffe43/tile_1767001690509.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d276ce59fd82da32267d0d" start="20261125130000 +0000" stop="20261125210039 +0000">
-        <title>Liebe Sünde</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/featuredImage_1763647481975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125143049 +0000" stop="20261125150049 +0000">
+        <title>Gigolos</title>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d276ce59fd82da32267d0d" start="20261125210039 +0000" stop="20261125215753 +0000">
-        <title>Liebe Sünde</title>
-        <desc>Ein Blick in deutsche Schlafzimmer und ihre fehlende Erotik. Österreichs Sexberaterin Gerti Senger erforscht Liebeskummer, Hardcore-Comics boomen, Stricher organisieren sich in Berlin – und in Amsterdam lockt die große Fetischparty.</desc>
-        <icon src="https://images.pluto.tv/series/68f8c040d279ff48054333e2/tile_1761132609481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125150049 +0000" stop="20261125153049 +0000">
+        <title>Gigolos</title>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d276ce59fd82da32267d0d" start="20261125215753 +0000" stop="20261125225228 +0000">
-        <title>Liebe Sünde</title>
-        <desc>Von den erotischsten Filmszenen bis zur Berlinale: Erotik im Kino Bond-Girls und Geschichten vom Erwachsenwerden. Dazu intime Einblicke in das Leben einer Domina – zwischen Lust Tabus und dem Spiel mit Macht.</desc>
-        <icon src="https://images.pluto.tv/series/68f8c040d279ff48054333e2/tile_1761132609481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125153049 +0000" stop="20261125160049 +0000">
+        <title>Gigolos</title>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d276ce59fd82da32267d0d" start="20261125225228 +0000" stop="20261125234838 +0000">
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125160049 +0000" stop="20261125163049 +0000">
+        <title>Gigolos</title>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27437e6767bdeb23f0336" start="20261125163049 +0000" stop="20261125170049 +0000">
+        <title>Gigolos</title>
+        <desc>Lust auf ein Date mit Nick? Oder doch lieber Jimmy? Was ist mit Brace, Steven oder Vin? Du kannst dich nicht entscheiden? Musst du auch nicht – hier kannst du sie alle haben. Begleite die fünf Gigolos durch ihren prickelnden Alltag.</desc>
+        <icon src="https://images.pluto.tv/series/69787dc2644861a57cf77b14/tile_1769504195258.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125123039 +0000" stop="20261125130039 +0000">
         <title>Liebe Sünde</title>
-        <desc>Stimmen, die verführen, Gedichte voller Sinnlichkeit, Valentinstagstrubel und Karnevalslust: Dazu intime Berichte vom ersten Mal und eine Studie über Kondome im echten Liebesleben. Eine Folge voller Stimmen der Begierde.</desc>
-        <icon src="https://images.pluto.tv/series/68f8c040d279ff48054333e2/tile_1761132609481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125130039 +0000" stop="20261125133039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125133039 +0000" stop="20261125140039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125140039 +0000" stop="20261125143039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125143039 +0000" stop="20261125150039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125150039 +0000" stop="20261125153039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125153039 +0000" stop="20261125160039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125160039 +0000" stop="20261125163039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d276ce59fd82da32267d0d" start="20261125163039 +0000" stop="20261125170039 +0000">
+        <title>Liebe Sünde</title>
+        <desc>In den 90ern beinahe revolutionär informierte Liebe Sünde über den menschlichen Körper und sexuelle Gesundheit, aber auch Nachtclubs und Erotikmessen. Liebe Sünde klärte auf, gab Ratschläge und beantwortete Fragen, die sich niemand zu fragen traute.</desc>
+        <icon src="https://images.pluto.tv/series/691f256c5ee95228a6820b3c/tile_1763648878142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6914913274601d957ae35565" start="20261125124231 +0000" stop="20261125133335 +0000">
         <title>Ax Men</title>
@@ -21482,10 +21915,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Die Jäger dehnen Grenzen, um neue Gebiete zu erschließen, und begegnen dabei wütenden Landbesitzern.</desc>
         <icon src="https://d3bd0tgyk368z1.cloudfront.net/resized_images/swpeg/resized_fb7adebf8d1e8854eb5fdee956cd08acc5a84a44f62b069248845e3afc662d16_resized3f1ffe685fd82b89e6fed1214b544bc3aa681801e59c76e7224b01df59276a761562ser169textlessjpg19201080jpeg_330_330.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125123128 +0000" stop="20261125130128 +0000">
         <title>Space Live</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/69a554497ed3b3fff0b9ca80/featuredImage_1774635553534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125130128 +0000" stop="20261125133128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125133128 +0000" stop="20261125140128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125140128 +0000" stop="20261125143128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125143128 +0000" stop="20261125150128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125150128 +0000" stop="20261125153128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125153128 +0000" stop="20261125160128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125160128 +0000" stop="20261125163128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a554497ed3b3fff0b9ca80" start="20261125163128 +0000" stop="20261125170128 +0000">
+        <title>Space Live</title>
+        <desc>Erleben Sie die Welt aus der Perspektive von Astronauten – in atemberaubenden Details. Verfolge den ersten kontinuierlichen Livestream direkt aus dem All, dank der direkten Übertragung von Videokameras der Internationalen Raumstation.</desc>
+        <icon src="https://images.pluto.tv/series/69e1f3227701dc746df5c3f8/tile_1776416294952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69c2ac2b14c0213702da7a29" start="20261125121055 +0000" stop="20261125130652 +0000">
         <title>Die glorreichen sieben</title>
@@ -21517,10 +21990,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Die glorreichen Sieben wollen den Missbrauch von Eisenbahn-Arbeitern aus China stoppen. Als Gäste: John Cho, Tzi Ma und Brad Dourif.</desc>
         <icon src="https://images.pluto.tv/series/6980824dec7e3a1f3acd5208/tile_1770029646761.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125130000 +0000" stop="20261125170000 +0000">
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125130000 +0000" stop="20261125133000 +0000">
         <title>BBC Earth</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a9a89f6ff94431f8bb895d4/featuredImage_1788513545702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125133000 +0000" stop="20261125140000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125140000 +0000" stop="20261125143000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125143000 +0000" stop="20261125150000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125150000 +0000" stop="20261125153000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125153000 +0000" stop="20261125160000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125160000 +0000" stop="20261125163000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125163000 +0000" stop="20261125170000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a89f6ff94431f8bb895d4" start="20261125170000 +0000" stop="20261125173000 +0000">
+        <title>BBC Earth</title>
+        <desc>Erlebe atemberaubende Action hautnah, erfahre von faszinierenden Ideen und entdecke die Wunder unseres Universums auf BBC Earth.</desc>
+        <icon src="https://images.pluto.tv/series/6adb7c2ac5c21b7265c3a683/tile_1792769090460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d00e8adaab96b5635b2a005" start="20261125124520 +0000" stop="20261125131520 +0000">
         <title>SpongeBob Schwammkopf</title>
@@ -24952,6 +25465,11 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Als es zwischen ihren Eltern kriselt, bitten Martha und Tom den „Weihnachtsmann“ um Hilfe, nicht ahnend, dass dieser in Wirklichkeit ein verkleideter, entflohener Häftling ist.</desc>
         <icon src="https://images.pluto.tv/series/6acc90b078e140e3e4dd12aa/tile_1791791281491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dc29179c928a600093a7747" start="20261125213103 +0000" stop="20261125231703 +0000">
+        <title>A Santa Story – Ein Tierisches Weihnachten</title>
+        <desc>Weihnachtlicher Familienfilm voller Humor, Herz und Abenteuer! Ein verschwundener Hund, ein mysteriöser DNA-Beweis und eine turbulente Reise zum Nordpol sorgen für magische Unterhaltung.</desc>
+        <icon src="https://images.pluto.tv/series/6acc9ecb9abe27364ca2b8fa/tile_1791794891983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e7b6c60fd20c50007910bf5" start="20261125162407 +0000" stop="20261125172207 +0000">
         <title>Hawaii Fünf-Null: Der persönliche Krieg</title>
         <desc>Als ein junger Führer einer Friedensbewegung getötet wird, scheint die Ermittlung der Five-O ins Leere zu laufen. Bei der Suche nach dem Täter müssen McGarrett und sein Team feststellen, ob das Opfer – oder jemand anderes –  das beabsichtigte Ziel war.</desc>
@@ -26856,6 +27374,11 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <title>Zwei Asse trumpfen auf</title>
         <desc>Zwei Abenteurer mit zweifelhaftem Ruf machen sich auf die Suche nach einem japanischen Schatz aus dem Zweiten Weltkrieg auf einer abgelegenen Insel, wo sie auf Einheimische und Piraten treffen.</desc>
         <icon src="https://images.pluto.tv/series/6a0aff43ffc66442897d5a2c/tile_1779105604016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5c5c3b948002db3c3e0b262e" start="20261125211205 +0000" stop="20261125235433 +0000">
+        <title>Zulu</title>
+        <desc>Zulu erzählt die Geschichte eines epischen Abenteuers und von Mut angesichts unglaublicher Ungleichheit.</desc>
+        <icon src="https://images.pluto.tv/series/6aa81309ef1ef9477921c5e2/tile_1789399817925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5cb5d043a461406ffe3fb2de" start="20261125163414 +0000" stop="20261125172626 +0000">
         <title>Julia – Wege zum Glück: Kapitel 186</title>
@@ -34107,6 +34630,11 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Ein furchtloses Nonnen-Trio sinnt auf Rache. Nachdem ihnen von skrupellosen Männern Unrecht getan wurde, tauschen sie ihre Gewohnheiten gegen scharfe Waffen und nehmen die Gerechtigkeit selbst in die Hand.</desc>
         <icon src="https://images.pluto.tv/series/6a548a2084edc518a94a1216/tile_1783925281691.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65004605110545000842035d" start="20261126010917 +0000" stop="20261126034608 +0000">
+        <title>Tag Der Befreiung</title>
+        <desc>Der Zweite Weltkrieg wütet und die Elitetruppe des 6. Ranger Bataillons erhält einen Auftrag heldenhafter Dimension: 50 km hinter feindliche Linien vordringen und über 500 amerikanische Kriegsgefangene befreien.</desc>
+        <icon src="https://images.pluto.tv/series/660d5e10e2cbc40013488e6e/tile_1778702041529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="652e7582cc7abc0008439bfe" start="20261125193457 +0000" stop="20261125220030 +0000">
         <title>Regen in den Bergen</title>
         <desc>Der alternde Abt eines buddhistischen Klosters lädt Herrn Wen, General Wang und den Gelehrten Wu Wai in sein Kloster ein, um Rat sich bei der Wahl eines geeigneten Nachfolgers zu holen.</desc>
@@ -36890,6 +37418,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Argentina, after an impressive Group F win led by captain Lionel Messi, battles Switzerland, who finished second in Group E. From Arena de São Paulo in São Paulo, Brazil.</desc>
         <icon src="https://images.pluto.tv/series/67b3567ef77b5e1d230d6313/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="660bfc032433010008def35a" start="20261126054500 +0000" stop="20261126062500 +0000">
+        <title>World Champions: France 1998</title>
+        <desc>The iconic home soil triumph of France at the 1998 FIFA World Cup.</desc>
+        <icon src="https://images.pluto.tv/series/688a17df6cc84ff3ed258a6d/tile_1761603006979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66337ea1307fa300082c28a0" start="20261126003012 +0000" stop="20261126010012 +0000">
         <title>Spieltag 14 (06.12): BVB-Frauen vs FC Schalke 04</title>
         <desc>Alle Spiele der BVB-Frauen in der Regionalliga West – nur hier live und relive.</desc>
@@ -39638,10 +40171,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Diesmal pimpt die Crew den 1985er Ford Econoline von Nate auf.</desc>
         <icon src="https://images.pluto.tv/series/5ce649f5268a0b08eedf94fa/tile_1790722442626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5caf330ea5068259a32320fd" start="20261126010000 +0000" stop="20261126050000 +0000">
+    <programme channel="5caf330ea5068259a32320fd" start="20261126010000 +0000" stop="20261126013000 +0000">
         <title>MTV Ink Master</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/featuredImage_1783598886471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126013000 +0000" stop="20261126020000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126020000 +0000" stop="20261126023000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126023000 +0000" stop="20261126030000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126030000 +0000" stop="20261126033000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126033000 +0000" stop="20261126040000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126040000 +0000" stop="20261126043000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126043000 +0000" stop="20261126050000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5caf330ea5068259a32320fd" start="20261126050000 +0000" stop="20261126053000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>Betrete die Welt aus kräftiger Tinte und knallhartem Wettbewerb. Der „Ink Master"-Sender feiert Kreativität, Können und unvergessliche Tattoo-Stories voller verrückter Wendungen und emotionaler Reisen.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c1be6e23fb7a21682807/tile_1783677388588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ce40f42ba7f7f5ea9518fe1" start="20261126001900 +0000" stop="20261126011200 +0000">
         <title>Ice Pilots: Extreme Bedingungen</title>
@@ -39673,10 +40246,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>In Yellowknife wird es allmählich Frühling. Erstes untrügliches Zeichen: Die Eis-Straße auf dem Mackenzie River wird für den Verkehr gesperrt. Joe McBryan und den Leuten von Buffalo Airways ist das Einsetzen des wärmeren Wetters diesmal alles ...</desc>
         <icon src="https://images.pluto.tv/series/5b217852ae73cc0560c330d7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126010000 +0000" stop="20261126050000 +0000">
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126004500 +0000" stop="20261126011500 +0000">
         <title>MTV Teen Mom</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/featuredImage_1750154726751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126011500 +0000" stop="20261126014500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126014500 +0000" stop="20261126021500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126021500 +0000" stop="20261126024500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126024500 +0000" stop="20261126031500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126031500 +0000" stop="20261126034500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126034500 +0000" stop="20261126041500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126041500 +0000" stop="20261126044500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cffcf5686dfe15595fb3f56" start="20261126044500 +0000" stop="20261126051500 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Das berühmte Reality-Format „Teen Mom“ bekommt seinen eigenen Sender. MTV begleitet hier verschiedene junge Mütter im ersten Jahr ihrer Mutterschaft und zeigt die täglichen Herausforderungen, denen sie sich stellen müssen.</desc>
+        <icon src="https://images.pluto.tv/series/68370e1bbbc703dfd4d281ad/tile_1748438801973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dc190f7bfed110009d934c3" start="20261126002703 +0000" stop="20261126011924 +0000">
         <title>Copper</title>
@@ -39728,10 +40341,15 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Ton und Allen fahren nach Playa Vista, CA, und bieten auf einen wahren Schatz. Dabei entdecken sie ein Hochgeschwindigkeits-Quadzilla-ATV und ein Paar Gewehre - einen Remington Derringer aus den 1910er Jahren und einen Palm Squeezer aus den 1880er Jahren.</desc>
         <icon src="https://images.pluto.tv/series/5f3a4ddb2aa610001a813491/tile_1780400521469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ede45d077746000072be0fe" start="20261126023610 +0000" stop="20261126032210 +0000">
-        <title>Auction Hunters</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5ede45d077746000072be0fe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5ede45d077746000072be0fe" start="20261126023610 +0000" stop="20261126025910 +0000">
+        <title>Auction Hunters: Sink or Swim</title>
+        <desc>Ton und Allen fahren nach Torrance, CA. Sie erhalten ein Thomas Edison-Grammophon der Jahrhundertwende mit seltenen zylindrischen Wachsplatten und ein Ein-Mann-Addictor 190-Miniboot, das für Hochgeschwindigkeitsspaß ausgelegt ist.</desc>
+        <icon src="https://images.pluto.tv/series/5f3a4ddb2aa610001a813491/tile_1780400521469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ede45d077746000072be0fe" start="20261126025910 +0000" stop="20261126032210 +0000">
+        <title>Auction Hunters: Labor of Love</title>
+        <desc>Ton und Allen entdecken einen Pac-Man Arcade-Automaten aus den 80er Jahren und eine seltene Air Jordan Vintage-Schuhkollektion. Ein Harley V-Twin EVO-Motor und ein 1958 dual-suspension swingarm frame könnten Gold wert sein.</desc>
+        <icon src="https://images.pluto.tv/series/5f3a4ddb2aa610001a813491/tile_1780400521469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ede45d077746000072be0fe" start="20261126032210 +0000" stop="20261126034510 +0000">
         <title>Auction Hunters: Disco and Dice</title>
@@ -39803,10 +40421,10 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Dieser Channel ist täglich von 22:00 Uhr bis 6:00 Uhr erreichbar.</desc>
         <icon src="https://images.pluto.tv/series/5fd8d0db6d048500077ad862/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f9847fd513250000728a9a5" start="20261126044600 +0000" stop="20261126050000 +0000">
-        <title>MTV Ridiculousness</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f9847fd513250000728a9a5" start="20261126044600 +0000" stop="20261126051600 +0000">
+        <title>MTV Ridiculousness - täglich ab 22 Uhr</title>
+        <desc>Dieser Channel ist täglich von 22:00 Uhr bis 6:00 Uhr erreichbar.</desc>
+        <icon src="https://images.pluto.tv/series/5fd8d0db6d048500077ad862/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="608181d420fc8500075f612a" start="20261126005834 +0000" stop="20261126012632 +0000">
         <title>Yu-Gi-Oh! ARC-V: Obelisken-Angriff</title>
@@ -39883,10 +40501,10 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Valerie und Kelly werden widerwillig zu einem Weihnachtsgeschenkaustausch zusammengebracht. Kelly erlebt eine große Überraschung, als sie Joy trifft, ihre Halbschwester, von deren Existenz sie nichts wusste.</desc>
         <icon src="https://images.pluto.tv/series/6a97e2c9b60195e27e22198f/tile_1788339961692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bc1784120ba80007935aaa" start="20261126010000 +0000" stop="20261126011645 +0000">
-        <title>Awkward</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="62bc1784120ba80007935aaa" start="20261126005145 +0000" stop="20261126011645 +0000">
+        <title>Awkward: Das scharlachrote Äuglein</title>
+        <desc>Jenna möchte ihre Beziehung zu Matty definieren. Sie ist jedoch besorgt, dass sie ihn dadurch verlieren könnte. Inzwischen genießt Tamara ihren ersten Sexskandal, denn nach einer Knutscherei in einem Whirlpool bekommt sie eine Bindehautentzündung.</desc>
+        <icon src="https://images.pluto.tv/series/5cdd1de6796fd5bd74587f32/tile_1780413122100.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bc1784120ba80007935aaa" start="20261126011645 +0000" stop="20261126013945 +0000">
         <title>Awkward: Jenna lebt</title>
@@ -39963,10 +40581,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Blake Carrington zieht wieder in sein Haus ein. Ben gewinnt immer größeren Einfluß bei Colbyco. Alexis möchte ihn loswerden. Ben aber droht, sie hinter Gitter zu bringen. Mit Hilfe von Adam versucht Alexis, Ben in die Knie zu zwingen.</desc>
         <icon src="https://images.pluto.tv/series/6454eb88188649001ae5c96c/tile_1785881521696.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="644257fe7cb4b100081ed874" start="20261126010000 +0000" stop="20261126050000 +0000">
+    <programme channel="644257fe7cb4b100081ed874" start="20261126003648 +0000" stop="20261126010648 +0000">
         <title>Hell's Kitchen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/644257fe7cb4b100081ed874/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126010648 +0000" stop="20261126013648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126013648 +0000" stop="20261126020648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126020648 +0000" stop="20261126023648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126023648 +0000" stop="20261126030648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126030648 +0000" stop="20261126033648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126033648 +0000" stop="20261126040648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126040648 +0000" stop="20261126043648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="644257fe7cb4b100081ed874" start="20261126043648 +0000" stop="20261126050648 +0000">
+        <title>Hell's Kitchen</title>
+        <desc>Wer beeindruckt Gordon Ramsay und überlebt in seiner Hell’s Kitchen? In dieser legendären Show macht Ramsay aufstrebenden Köch*innen die Hölle heiß.</desc>
+        <icon src="https://images.pluto.tv/series/6448cb49e1979c0008474bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6447dea7e94c380008dba94c" start="20261126005443 +0000" stop="20261126014743 +0000">
         <title>Germany Shore: Folge 9</title>
@@ -40078,10 +40736,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Als Debbie erfährt, dass Annie ihre Eizellen verkaufen möchte, um sie von ihrer Geldnot zu befreien, kommt es zum Streit: Debbie verbietet Annie ihr Vorhaben, woraufhin Annie ihrer Mutter vorwirft, sie würde nie einen Job finden.</desc>
         <icon src="https://images.pluto.tv/series/65ae35999eae960013fff5bf/tile_1778846761872.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d5fc39a25d5e00082895c4" start="20261126010000 +0000" stop="20261126050000 +0000">
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126010000 +0000" stop="20261126013000 +0000">
         <title>Naruto</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126013000 +0000" stop="20261126020000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126020000 +0000" stop="20261126023000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126023000 +0000" stop="20261126030000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126030000 +0000" stop="20261126033000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126033000 +0000" stop="20261126040000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126040000 +0000" stop="20261126043000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126043000 +0000" stop="20261126050000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20261126050000 +0000" stop="20261126053000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile_1783969309488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="663e09e4b18d700008e48dcf" start="20261125232221 +0000" stop="20261126011418 +0000">
         <title>Big Brother</title>
@@ -40113,10 +40811,50 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Mit jedem weiteren Tag wächst der Druck im Container. Unterschiedliche Charaktere und der fehlende Rückzugsort sorgen für neue Diskussionen und angespannte Stimmung.</desc>
         <icon src="https://images.pluto.tv/series/66c590702fca0600135e980d/tile_1773853921078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="666fe4768768aa0008c31ddf" start="20261126010000 +0000" stop="20261126050000 +0000">
-        <title>Saving Hope</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/666fe4768768aa0008c31ddf/featuredImage_1768842844276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126004608 +0000" stop="20261126011608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126011608 +0000" stop="20261126014608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126014608 +0000" stop="20261126021608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126021608 +0000" stop="20261126024608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126024608 +0000" stop="20261126031608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126031608 +0000" stop="20261126034608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126034608 +0000" stop="20261126041608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126041608 +0000" stop="20261126044608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="666fe4768768aa0008c31ddf" start="20261126044608 +0000" stop="20261126051608 +0000">
+        <title>Saving Hope Live</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6969ef0b40c8de3925454c6e/tile_1768550156055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c6fcfc6838ee00085beb1a" start="20261126001411 +0000" stop="20261126010922 +0000">
         <title>McLeods Töchter</title>
