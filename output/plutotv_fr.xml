@@ -13542,6 +13542,11 @@ Nobita et Doraemon trouvent le Passe-Partout qui permet à son détenteur d’en
         <desc>Dans un futur proche, la Terre est devenue un endroit désolé et hostile. Menacée par une mystérieuse race de monstres, l'humanité a été forcée de se réfugier sur Sky Ark, une ville construite dans le ciel.</desc>
         <icon src="https://images.pluto.tv/series/64b65774fdd86200135432e7/tile_1768512105554.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65a69ef53af63d000825e0ee" start="20261125182004 +0000" stop="20261125200236 +0000">
+        <title>Skyfire</title>
+        <desc>Sur l’île de Tianhuov, alors qu’une fête bat son plein, un volcan de l’Anneau de Feu se réveille. Un jeune scientifique tente de convaincre le propriétaire du parc de procéder à l’évacuation avant que la catastrophe ne frappe.</desc>
+        <icon src="https://images.pluto.tv/series/695d16ce287ec44e140d354c/tile_1767761330286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65cca3e2ec452d0008af3a65" start="20261125123634 +0000" stop="20261125141123 +0000">
         <title>Rivaux Du Rail</title>
         <desc>La compagnie Denver and Rio Grande Railroad se bat avec la ligne de Canyon City and San Juan pour obtenir le droit de passage à travers la Colorado's Royal Gorge.</desc>

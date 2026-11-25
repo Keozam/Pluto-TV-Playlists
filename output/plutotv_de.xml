@@ -16036,6 +16036,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Aus dem Ennio Tardini Stadion in Parma, Emilia-Romagna, Italien.</desc>
         <icon src="https://images.pluto.tv/series/655f691009a89300133b2d3f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64afe50c5dc16600087f3227" start="20261125173900 +0000" stop="20261125175800 +0000">
+        <title>Drift Queen</title>
+        <desc>Becky Evans will von den Driftfahrern James Deane und Mad Mike Whiddett wissen, was sie lernen muss.</desc>
+        <icon src="https://images.pluto.tv/series/6516ae428026ff001ab8214e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64b67f0424ade50008a3be17" start="20261125123300 +0000" stop="20261125155400 +0000">
         <title>Darts</title>
         <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>

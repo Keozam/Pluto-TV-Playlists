@@ -8539,6 +8539,11 @@ Estrella Invitada: Ron Howard.</desc>
         <desc>Ben y George aprovechan la nueva ley y deciden casarse. De vuelta de la luna de miel, debido al revuelo mediático que generó su matrimonio, despiden a George de su puesto como director del coro de una escuela católica mixta.</desc>
         <icon src="https://images.pluto.tv/series/60d0437628f1d30013ed3c12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20261125131114 +0000" stop="20261125153514 +0000">
+        <title>Historia de una pasión</title>
+        <desc>¿Quién fue Emily Dickinson? ¿Quién se escondía detrás de la poetisa que paso la mayor parte de su vida en casa de sus padres? La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.</desc>
+        <icon src="https://images.pluto.tv/series/60d0435028f1d30013ed3400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61373bb45168fe000773eecd" start="20261125073002 +0000" stop="20261125090902 +0000">
         <title>Tulsa, Ciudad de Lucha</title>
         <desc>En Tulsa, después de que un ranchero muere durante una disputa, su hija, impulsada por la venganza, decide buscar petróleo hasta que su ambición la ciega.</desc>
@@ -17797,9 +17802,9 @@ Pero cuánta basura + El robot</desc>
         <icon src="https://images.pluto.tv/series/66d81af7a0ed47001326a3aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20261125182100 +0000" stop="20261125191600 +0000">
-        <title>Crimen &amp; Historia</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Crimen en cámara</title>
+        <desc>Los casos y crímenes reales se resuelven muchas veces gracias a grabaciones de cámaras de seguridad. Estas grabaciones se usan como protección de los civiles y también para capturar a criminales.</desc>
+        <icon src="https://images.pluto.tv/series/66d81af7a0ed47001326a3aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20261125191600 +0000" stop="20261125201000 +0000">
         <title>Crimen en cámara</title>
@@ -17851,10 +17856,15 @@ Pero cuánta basura + El robot</desc>
         <desc>Zoey planea un viaje a Maui para las vacaciones de verano y James también quiere ir, pero la reacción de ella le sorprende al no ser en absoluto lo que esperaba.</desc>
         <icon src="https://images.pluto.tv/series/602cddb530c7ec0013a260dc/tile_1781022242711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6511a53f473a54000854e2ee" start="20261125193057 +0000" stop="20261125202157 +0000">
-        <title>Zoey 101</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6511a53f473a54000854e2ee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6511a53f473a54000854e2ee" start="20261125193057 +0000" stop="20261125195657 +0000">
+        <title>Zoey 101: Bienvenidas a PCA</title>
+        <desc>Zoey Brooks es una de las muchas chicas que llegan a PCA por primera vez. Al llegar, hace nuevos amigos y un enemigo en Logan, un estereotipo que cree que las chicas no pueden ganar a los chicos al baloncesto. Zoey se lo toma como un reto.</desc>
+        <icon src="https://images.pluto.tv/series/602cddb530c7ec0013a260dc/tile_1781022242711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6511a53f473a54000854e2ee" start="20261125195657 +0000" stop="20261125202157 +0000">
+        <title>Zoey 101: Compis Nuevas</title>
+        <desc>Zoey aprende a disfrutar de la vida en PCA hasta que sus compañeras de cuarto, Dana y Nicole, se enfadan entre sí. Zoey no soporta las peleas constantes y decide mudarse a la habitación de Quinn. Chase se pregunta si podría pedir salir a Zoey.</desc>
+        <icon src="https://images.pluto.tv/series/602cddb530c7ec0013a260dc/tile_1781022242711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6511a53f473a54000854e2ee" start="20261125202157 +0000" stop="20261125204657 +0000">
         <title>Zoey 101: Defendiendo a Dustin</title>
@@ -18206,10 +18216,50 @@ Pero cuánta basura + El robot</desc>
         <desc>La honorable señorita Phryne Fisher ha sido escogida para mejorar a un grupo de doncellas de las flores para el festival floral anual.</desc>
         <icon src="https://images.pluto.tv/series/698f1eebc50894a1407e9eb6/tile_1770987244223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125170000 +0000" stop="20261125210000 +0000">
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125170000 +0000" stop="20261125173000 +0000">
         <title>Rebelde</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/featuredImage_1789113326784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125173000 +0000" stop="20261125180000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125180000 +0000" stop="20261125183000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125183000 +0000" stop="20261125190000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125190000 +0000" stop="20261125193000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125193000 +0000" stop="20261125200000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125200000 +0000" stop="20261125203000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125203000 +0000" stop="20261125210000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261125210000 +0000" stop="20261125213000 +0000">
+        <title>Rebelde</title>
+        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
+        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6aacfebd67b298a0f0a96c14" start="20261125160455 +0000" stop="20261125173659 +0000">
         <title>Te va a Picar</title>
@@ -30152,6 +30202,11 @@ Estrella Invitada: Vicky McClure.</desc>
         <title>El gran silencio</title>
         <desc>Un pistolero mudo defiende a una joven viuda y a un grupo de forajidos contra una banda de asesinos durante el invierno de 1898.</desc>
         <icon src="https://images.pluto.tv/series/63723a71fc0c0b0013b5ffcf/tile_1768610881632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373bb45168fe000773eecd" start="20261126052350 +0000" stop="20261126071950 +0000">
+        <title>El mundo perdido</title>
+        <desc>La primera adaptación cinematográfica de la novela clásica de Sir Arthur Conan Doyle sobre una tierra en la aún existen criaturas prehistóricas.</desc>
+        <icon src="https://images.pluto.tv/series/61640f8cf3593c001aa34d80/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6267d4d1fb694f0007a6af0e" start="20261125232547 +0000" stop="20261126010941 +0000">
         <title>El secreto de la mansión</title>
