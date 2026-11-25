@@ -26,15 +26,7 @@ jobs:
 
       - name: Run scraper
         run: node index.js
-- name: Agregar CUID para xTeVe
-    run: |
-      python3 << 'PYEOF'
-      import glob, re
-      for f in glob.glob("**/*.m3u*"):
-          t = open(f, encoding="utf-8", errors="ignore").read()
-          t = re.sub(r'#EXTINF:-1 tvg-id="([^"]+)"', r'#EXTINF:-1 CUID="\1" tvg-id="\1"', t)
-          open(f, "w", encoding="utf-8").write(t)
-      PYEOF
+
       - name: Commit files
         run: |
           git config --global user.name "github-actions"
