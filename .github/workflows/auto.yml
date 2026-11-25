@@ -26,7 +26,8 @@ jobs:
 
       - name: Run scraper
         run: node index.js
-
+      - name: Agregar CUID para xTeVe
+        run: python3 add_cuid.py
       - name: Commit files
         run: |
           git config --global user.name "github-actions"
