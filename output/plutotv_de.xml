@@ -5489,6 +5489,11 @@ Bei Talk?Now! siehst du Talks und Videopdcasts rund um die Uhr aus allen Bereich
         <desc>Charlton Heston spielt einen mächtigen, brütenden Plantagenbesitzer in der Wildnis des südamerikanischen Dschungels.</desc>
         <icon src="https://images.pluto.tv/series/68909c884f8d4a991706c240/tile_1787006522898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dde47b63585b500099f74ec" start="20261125091235 +0000" stop="20261125110635 +0000">
+        <title>König der heißen Rhythmen</title>
+        <desc>Elvis spielt einen Karate-Biker, der als Handlanger auf dem Rummelplatz angeheuert wird.</desc>
+        <icon src="https://images.pluto.tv/series/6041ea1fe7c979001a897f63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e7de99bc5200300072e971a" start="20261125044700 +0000" stop="20261125053500 +0000">
         <title>Sanctuary: Der Absturz</title>
         <desc>Helen überredet Will, mit ihr zum Golf von Mexiko zu fliegen, um dort einen sehr seltenen Vampirtintenfisch einzufangen und ins Sanctuary zu bringen.</desc>
@@ -18125,6 +18130,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Zwei Brüder</title>
         <desc>Oberstaatsanwalt Christoph Thaler und sein Bruder Peter, ein draufgängerischer, geschiedener, seine Kinder vernachlässigender Polizist mit Alkoholproblem, klären gemeinsam Mordfälle auf.</desc>
         <icon src="https://images.pluto.tv/series/680b9560afe56ba72e2d5518/tile_1767657218756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cb5cfe5caf83414128f209e" start="20261125171915 +0000" stop="20261125181305 +0000">
+        <title>Ihr Auftrag, Pater Castell</title>
+        <desc>Auf dem idyllischen, oberbayrischen Jakobsweg, nahe einer Kapelle, entdecken zwei Pilger die Leiche des Besitzers eines Pilgerladens, Stephan Freisinger.</desc>
+        <icon src="https://images.pluto.tv/series/683da1bca21058b98f92cd09/tile_1767656527864.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767a76367b89cf0032550d" start="20261125112853 +0000" stop="20261125130533 +0000">
         <title>An Unexpected Christmas</title>
@@ -43943,6 +43953,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Jonny Madoc</title>
         <desc>Ein mexikanischer Pistolero rächt sich an dem Mann, der für den Mord an seiner Familie verantwortlich ist. Außerdem hat er seine Heimatstadt übernommen, um das Geld zurückzuholen, das bei einem kürzlichen Raubüberfall gestohlen wurde.</desc>
         <icon src="https://images.pluto.tv/series/6ac91dbb76e9053cdd46f905/tile_1792178658873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="684ac10236c9361b1977f7bc" start="20261126053600 +0000" stop="20261126071100 +0000">
+        <title>Gunman of Ave Maria</title>
+        <desc>Der gefürchtete Revolverheld Sebastian Carrasco erfährt, dass sein Vater von seiner Mutter und ihrem Liebhaber ermordet wurde. Sebastian, seine Schwester Isabelle und sein Kindheitsfreund Rafael begeben sich auf die Jagd nach den Tätern.</desc>
+        <icon src="https://images.pluto.tv/series/68f8a443e75d6b4e6f89a2b4/tile_1791487672949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cffbf3ffa5e0c91cdcfb3" start="20261126002940 +0000" stop="20261126012509 +0000">
         <title>21 Jump Street</title>
